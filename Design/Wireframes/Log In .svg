@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_36" x="66.5" y="-13.5" width="1987" height="1208" filterUnits="userSpaceOnUse">
+      <feOffset dx="100" dy="50" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_13">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_13" data-name="Web 1920 – 13" clip-path="url(#clip-Web_1920_13)">
+    <rect width="1920" height="1080" fill="#f5f5f5"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_36)">
+      <rect id="Rectangle_36-2" data-name="Rectangle 36" width="1690" height="911" rx="43" transform="translate(115 85)" fill="#fff"/>
+    </g>
+    <line id="Line_8" data-name="Line 8" x2="1690" transform="translate(115.5 763.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Don_t_have_an_account_" data-name="Don’t have an account?" transform="translate(450 897)" fill="#707070" font-size="65" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Don’t have an account?</tspan></text>
+    <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(1187 817)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="283" height="112" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="282" height="111" rx="14.5" fill="none"/>
+    </g>
+    <text id="Sign_Up" data-name="Sign Up" transform="translate(1217 894)" fill="#707070" font-size="62" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Sign Up</tspan></text>
+    <text id="Log_In" data-name="Log In" transform="translate(776 247)" fill="#707070" font-size="132" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Log In</tspan></text>
+    <text id="User_Name" data-name="User Name" transform="translate(450 436)" fill="#707070" font-size="63" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">User Name</tspan></text>
+    <text id="Password" transform="translate(450 600)" fill="#707070" font-size="63" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Password</tspan></text>
+    <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(858 376)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="612" height="92" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="611" height="91" rx="14.5" fill="none"/>
+    </g>
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(858 521)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="612" height="92" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="611" height="91" rx="14.5" fill="none"/>
+    </g>
+  </g>
+</svg>

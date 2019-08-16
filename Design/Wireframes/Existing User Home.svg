@@ -1,0 +1,355 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1.054" y2="0.947" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <filter id="Path_76" x="66.5" y="-13.5" width="1987" height="1208" filterUnits="userSpaceOnUse">
+      <feOffset dx="100" dy="50" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-4" x2="1.054" y2="0.947" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.966"/>
+      <stop offset="1" stop-color="#fc00ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="284.706" height="168.12" rx="13" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" y1="0.38" x2="1.107" y2="0.241" xlink:href="#linear-gradient"/>
+    <filter id="Path_49" x="1353.207" y="206.335" width="577.361" height="493.123" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-2"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_48" x="1351.272" y="208.915" width="503.615" height="490.543" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-3"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-7" x1="0.5" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <filter id="Path_47" x="1349.028" y="203.347" width="376.627" height="451.054" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-4"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-8" x1="0.5" y1="-0.103" x2="0.365" y2="1.524" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="Path_50" x="1659.389" y="191.308" width="230.787" height="225.161" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-9" x1="0.699" y1="-0.056" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <filter id="Ellipse_7" x="1314.64" y="257.611" width="511.105" height="511.106" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="37" result="blur-6"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_49-2" x="1353.207" y="455.335" width="577.361" height="493.123" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-7"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_48-2" x="1351.272" y="457.915" width="503.615" height="490.543" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-8"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_47-2" x="1349.028" y="452.347" width="376.627" height="451.054" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-9"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_50-2" x="1659.389" y="440.308" width="230.787" height="225.161" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14.5" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_7-2" x="1314.64" y="506.611" width="511.105" height="511.106" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="37" result="blur-11"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_49-3" x="1353.207" y="705.335" width="577.361" height="493.123" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-12"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_48-3" x="1351.272" y="707.915" width="503.615" height="490.543" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-13"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_47-3" x="1349.028" y="702.347" width="376.627" height="451.054" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-14"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_50-3" x="1659.389" y="690.308" width="230.787" height="225.161" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14.5" result="blur-15"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_7-3" x="1314.64" y="756.611" width="511.105" height="511.106" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="37" result="blur-16"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-4">
+      <rect width="802" height="405" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect width="803" height="445" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-22" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#707070"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_16">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_16" data-name="Web 1920 – 16" clip-path="url(#clip-Web_1920_16)">
+    <rect width="1920" height="1080" fill="#f5f5f5"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_76)">
+      <path id="Path_76-2" data-name="Path 76" d="M43,0H1647a43,43,0,0,1,43,43V868a43,43,0,0,1-43,43H43A43,43,0,0,1,0,868V43A43,43,0,0,1,43,0Z" transform="translate(115 85)" fill="#fff"/>
+    </g>
+    <line id="Line_9" data-name="Line 9" x2="1690" transform="translate(115.5 255.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="User" transform="translate(1583 198)" fill="#707070" font-size="63" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">User</tspan></text>
+    <g id="Rectangle_43" data-name="Rectangle 43" transform="translate(158 295)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="396" height="525" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="395" height="524" rx="14.5" fill="none"/>
+    </g>
+    <text id="Welcome" transform="translate(183 465)" fill="#707070" font-size="78" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Welcome</tspan></text>
+    <text id="User_Name" data-name="User Name" transform="translate(156 615)" fill="#707070" font-size="75" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">User Name</tspan></text>
+    <g id="Rectangle_48" data-name="Rectangle 48" transform="translate(158 855)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="399" height="115" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="398" height="114" rx="14.5" fill="none"/>
+    </g>
+    <text id="New_Account" data-name="New Account" transform="translate(357 930)" fill="#707070" font-size="52" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-156.468" y="0">New Account</tspan></text>
+    <g id="card3" transform="translate(1492.294 168.238)">
+      <path id="background" d="M9.873,0H274.833a9.873,9.873,0,0,1,9.873,9.873V158.247a9.873,9.873,0,0,1-9.873,9.873H9.873A9.873,9.873,0,0,1,0,158.247V9.873A9.873,9.873,0,0,1,9.873,0Z" transform="translate(-14 132)" fill="url(#linear-gradient-4)"/>
+      <g id="Card_Design" data-name="Card Design" transform="translate(-14 132)" clip-path="url(#clip-path)">
+        <g id="Group_38" data-name="Group 38" transform="translate(-52.654 -65.429)">
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -234.81)" filter="url(#Path_49)">
+            <path id="Path_49-4" data-name="Path 49" d="M0,0S258.821,7.749,317.723,73.947s79.638,195.224,79.638,195.224L90.423,313.123Z" transform="translate(1443.21 293.33)" fill="url(#linear-gradient-5)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -234.81)" filter="url(#Path_48)">
+            <path id="Path_48-4" data-name="Path 48" d="M0,0S176.676,24.055,235.578,90.253,323.615,266.59,323.615,266.59L16.677,310.543Z" transform="translate(1441.27 295.91)" fill="url(#linear-gradient-5)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -234.81)" filter="url(#Path_47)">
+            <path id="Path_47-4" data-name="Path 47" d="M12.909,0S104,46.614,149.609,102.079s47.018,130.068,47.018,130.068L0,271.054Z" transform="translate(1439.03 290.35)" fill="url(#linear-gradient-7)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -234.81)" filter="url(#Path_50)">
+            <path id="Path_50-4" data-name="Path 50" d="M0,0S.392,40.467,28.127,75.007s82.812,63.152,82.812,63.152,50.144.7,26.524-26.561S0,0,0,0Z" transform="translate(1702.89 234.81)" fill="url(#linear-gradient-8)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -234.81)" filter="url(#Ellipse_7)">
+            <ellipse id="Ellipse_7-4" data-name="Ellipse 7" cx="118.027" cy="118.027" rx="118.027" ry="118.027" transform="matrix(-0.26, 0.97, -0.97, -0.26, 1714.75, 426.71)" opacity="0.702" fill="url(#linear-gradient-9)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Card_Text" data-name="Card Text" transform="translate(-1.302 132.409)">
+        <text id="OLLI_FARLEY" data-name="OLLI FARLEY" transform="translate(1.69 134.493)" fill="#fff" font-size="15" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">OLLI FARLEY</tspan></text>
+        <text id="Regalia" transform="translate(1.69 10)" fill="#fff" font-size="11" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Regalia</tspan></text>
+        <text id="_5535_" data-name="5535 " transform="translate(0 68.904)" fill="#fff" font-size="19" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535</tspan><tspan y="0" fill="#000"> </tspan></text>
+        <text id="_" data-name="••••" transform="translate(65.052 69.3)" fill="#fff" font-size="28" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+        <text id="_2" data-name="••••" transform="translate(120.81 69.3)" fill="#fff" font-size="28" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+        <text id="_2296" data-name="2296" transform="translate(174.879 68.904)" fill="#fff" font-size="19" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+        <g id="visa_logo" data-name="visa logo" transform="translate(196.746 97.103)">
+          <g id="Group_46" data-name="Group 46" transform="translate(4.994 22.919)">
+            <path id="Path_67" data-name="Path 67" d="M23,16.928h-4.33L21.38.3h4.33ZM15.031.3,10.9,11.736l-.488-2.463h0L8.958,1.795A1.854,1.854,0,0,0,6.9.3H.08L0,.579a16.2,16.2,0,0,1,4.529,1.9L8.291,16.929H12.8L19.691.3ZM49.088,16.928h3.976L49.6.3H46.117a1.99,1.99,0,0,0-2,1.239L37.66,16.928h4.514l.9-2.47h5.5Zm-4.765-5.883L46.6,4.821l1.28,6.224ZM38,4.3,38.617.725A12.5,12.5,0,0,0,34.722,0c-2.149,0-7.251.939-7.251,5.506,0,4.3,5.989,4.35,5.989,6.607s-5.372,1.852-7.145.429l-.644,3.734a12.134,12.134,0,0,0,4.887.939c2.955,0,7.412-1.53,7.412-5.694,0-4.324-6.043-4.727-6.043-6.607S36.146,3.276,38,4.3Z" transform="translate(0 0)" fill="#fff"/>
+          </g>
+          <path id="Path_68" data-name="Path 68" d="M10.415,8.977,8.958,1.5A1.854,1.854,0,0,0,6.9,0H.08L0,.282A16.776,16.776,0,0,1,6.426,3.508,12.969,12.969,0,0,1,10.415,8.977Z" transform="translate(4.994 23.216)" fill="#fff"/>
+          <path id="Path_69" data-name="Path 69" d="M0,0H63.052V63.052H0Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle_49" data-name="Rectangle 49" transform="translate(633 300)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="802" height="115" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="801" height="114" rx="14.5" fill="none"/>
+    </g>
+    <text id="Savings_Goals" data-name="Savings Goals" transform="translate(1003 379)" fill="#707070" font-size="57" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-182.6" y="0">Savings Goals</tspan></text>
+    <g id="card3-2" data-name="card3" transform="translate(1492.294 417.238)">
+      <path id="background-2" data-name="background" d="M9.873,0H274.833a9.873,9.873,0,0,1,9.873,9.873V158.247a9.873,9.873,0,0,1-9.873,9.873H9.873A9.873,9.873,0,0,1,0,158.247V9.873A9.873,9.873,0,0,1,9.873,0Z" transform="translate(-14 132)" fill="url(#linear-gradient-4)"/>
+      <g id="Card_Design-2" data-name="Card Design" transform="translate(-14 132)" clip-path="url(#clip-path)">
+        <g id="Group_38-2" data-name="Group 38" transform="translate(-52.654 -65.429)">
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -483.81)" filter="url(#Path_49-2)">
+            <path id="Path_49-5" data-name="Path 49" d="M0,0S258.821,7.749,317.723,73.947s79.638,195.224,79.638,195.224L90.423,313.123Z" transform="translate(1443.21 542.33)" fill="url(#linear-gradient-5)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -483.81)" filter="url(#Path_48-2)">
+            <path id="Path_48-5" data-name="Path 48" d="M0,0S176.676,24.055,235.578,90.253,323.615,266.59,323.615,266.59L16.677,310.543Z" transform="translate(1441.27 544.91)" fill="url(#linear-gradient-5)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -483.81)" filter="url(#Path_47-2)">
+            <path id="Path_47-5" data-name="Path 47" d="M12.909,0S104,46.614,149.609,102.079s47.018,130.068,47.018,130.068L0,271.054Z" transform="translate(1439.03 539.35)" fill="url(#linear-gradient-7)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -483.81)" filter="url(#Path_50-2)">
+            <path id="Path_50-5" data-name="Path 50" d="M0,0S.392,40.467,28.127,75.007s82.812,63.152,82.812,63.152,50.144.7,26.524-26.561S0,0,0,0Z" transform="translate(1702.89 483.81)" fill="url(#linear-gradient-8)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -483.81)" filter="url(#Ellipse_7-2)">
+            <ellipse id="Ellipse_7-5" data-name="Ellipse 7" cx="118.027" cy="118.027" rx="118.027" ry="118.027" transform="matrix(-0.26, 0.97, -0.97, -0.26, 1714.75, 675.71)" opacity="0.702" fill="url(#linear-gradient-9)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Card_Text-2" data-name="Card Text" transform="translate(-1.302 132.409)">
+        <text id="OLLI_FARLEY-2" data-name="OLLI FARLEY" transform="translate(1.69 134.493)" fill="#fff" font-size="15" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">OLLI FARLEY</tspan></text>
+        <text id="Regalia-2" data-name="Regalia" transform="translate(1.69 10)" fill="#fff" font-size="11" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Regalia</tspan></text>
+        <text id="_5535_2" data-name="5535 " transform="translate(0 68.904)" fill="#fff" font-size="19" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535</tspan><tspan y="0" fill="#000"> </tspan></text>
+        <text id="_3" data-name="••••" transform="translate(65.052 69.3)" fill="#fff" font-size="28" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+        <text id="_4" data-name="••••" transform="translate(120.81 69.3)" fill="#fff" font-size="28" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+        <text id="_2296-2" data-name="2296" transform="translate(174.879 68.904)" fill="#fff" font-size="19" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+        <g id="visa_logo-2" data-name="visa logo" transform="translate(196.746 97.103)">
+          <g id="Group_46-2" data-name="Group 46" transform="translate(4.994 22.919)">
+            <path id="Path_67-2" data-name="Path 67" d="M23,16.928h-4.33L21.38.3h4.33ZM15.031.3,10.9,11.736l-.488-2.463h0L8.958,1.795A1.854,1.854,0,0,0,6.9.3H.08L0,.579a16.2,16.2,0,0,1,4.529,1.9L8.291,16.929H12.8L19.691.3ZM49.088,16.928h3.976L49.6.3H46.117a1.99,1.99,0,0,0-2,1.239L37.66,16.928h4.514l.9-2.47h5.5Zm-4.765-5.883L46.6,4.821l1.28,6.224ZM38,4.3,38.617.725A12.5,12.5,0,0,0,34.722,0c-2.149,0-7.251.939-7.251,5.506,0,4.3,5.989,4.35,5.989,6.607s-5.372,1.852-7.145.429l-.644,3.734a12.134,12.134,0,0,0,4.887.939c2.955,0,7.412-1.53,7.412-5.694,0-4.324-6.043-4.727-6.043-6.607S36.146,3.276,38,4.3Z" transform="translate(0 0)" fill="#fff"/>
+          </g>
+          <path id="Path_68-2" data-name="Path 68" d="M10.415,8.977,8.958,1.5A1.854,1.854,0,0,0,6.9,0H.08L0,.282A16.776,16.776,0,0,1,6.426,3.508,12.969,12.969,0,0,1,10.415,8.977Z" transform="translate(4.994 23.216)" fill="#fff"/>
+          <path id="Path_69-2" data-name="Path 69" d="M0,0H63.052V63.052H0Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="card3-3" data-name="card3" transform="translate(1492.294 667.238)">
+      <path id="background-3" data-name="background" d="M9.873,0H274.833a9.873,9.873,0,0,1,9.873,9.873V158.247a9.873,9.873,0,0,1-9.873,9.873H9.873A9.873,9.873,0,0,1,0,158.247V9.873A9.873,9.873,0,0,1,9.873,0Z" transform="translate(-14 132)" fill="url(#linear-gradient-4)"/>
+      <g id="Card_Design-3" data-name="Card Design" transform="translate(-14 132)" clip-path="url(#clip-path)">
+        <g id="Group_38-3" data-name="Group 38" transform="translate(-52.654 -65.429)">
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -733.81)" filter="url(#Path_49-3)">
+            <path id="Path_49-6" data-name="Path 49" d="M0,0S258.821,7.749,317.723,73.947s79.638,195.224,79.638,195.224L90.423,313.123Z" transform="translate(1443.21 792.33)" fill="url(#linear-gradient-5)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -733.81)" filter="url(#Path_48-3)">
+            <path id="Path_48-6" data-name="Path 48" d="M0,0S176.676,24.055,235.578,90.253,323.615,266.59,323.615,266.59L16.677,310.543Z" transform="translate(1441.27 794.91)" fill="url(#linear-gradient-5)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -733.81)" filter="url(#Path_47-3)">
+            <path id="Path_47-6" data-name="Path 47" d="M12.909,0S104,46.614,149.609,102.079s47.018,130.068,47.018,130.068L0,271.054Z" transform="translate(1439.03 789.35)" fill="url(#linear-gradient-7)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -733.81)" filter="url(#Path_50-3)">
+            <path id="Path_50-6" data-name="Path 50" d="M0,0S.392,40.467,28.127,75.007s82.812,63.152,82.812,63.152,50.144.7,26.524-26.561S0,0,0,0Z" transform="translate(1702.89 733.81)" fill="url(#linear-gradient-8)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -1425.64, -733.81)" filter="url(#Ellipse_7-3)">
+            <ellipse id="Ellipse_7-6" data-name="Ellipse 7" cx="118.027" cy="118.027" rx="118.027" ry="118.027" transform="matrix(-0.26, 0.97, -0.97, -0.26, 1714.75, 925.71)" opacity="0.702" fill="url(#linear-gradient-9)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Card_Text-3" data-name="Card Text" transform="translate(-1.302 132.409)">
+        <text id="OLLI_FARLEY-3" data-name="OLLI FARLEY" transform="translate(1.69 134.493)" fill="#fff" font-size="15" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">OLLI FARLEY</tspan></text>
+        <text id="Regalia-3" data-name="Regalia" transform="translate(1.69 10)" fill="#fff" font-size="11" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Regalia</tspan></text>
+        <text id="_5535_3" data-name="5535 " transform="translate(0 68.904)" fill="#fff" font-size="19" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535</tspan><tspan y="0" fill="#000"> </tspan></text>
+        <text id="_5" data-name="••••" transform="translate(65.052 69.3)" fill="#fff" font-size="28" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+        <text id="_6" data-name="••••" transform="translate(120.81 69.3)" fill="#fff" font-size="28" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+        <text id="_2296-3" data-name="2296" transform="translate(174.879 68.904)" fill="#fff" font-size="19" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+        <g id="visa_logo-3" data-name="visa logo" transform="translate(196.746 97.103)">
+          <g id="Group_46-3" data-name="Group 46" transform="translate(4.994 22.919)">
+            <path id="Path_67-3" data-name="Path 67" d="M23,16.928h-4.33L21.38.3h4.33ZM15.031.3,10.9,11.736l-.488-2.463h0L8.958,1.795A1.854,1.854,0,0,0,6.9.3H.08L0,.579a16.2,16.2,0,0,1,4.529,1.9L8.291,16.929H12.8L19.691.3ZM49.088,16.928h3.976L49.6.3H46.117a1.99,1.99,0,0,0-2,1.239L37.66,16.928h4.514l.9-2.47h5.5Zm-4.765-5.883L46.6,4.821l1.28,6.224ZM38,4.3,38.617.725A12.5,12.5,0,0,0,34.722,0c-2.149,0-7.251.939-7.251,5.506,0,4.3,5.989,4.35,5.989,6.607s-5.372,1.852-7.145.429l-.644,3.734a12.134,12.134,0,0,0,4.887.939c2.955,0,7.412-1.53,7.412-5.694,0-4.324-6.043-4.727-6.043-6.607S36.146,3.276,38,4.3Z" transform="translate(0 0)" fill="#fff"/>
+          </g>
+          <path id="Path_68-3" data-name="Path 68" d="M10.415,8.977,8.958,1.5A1.854,1.854,0,0,0,6.9,0H.08L0,.282A16.776,16.776,0,0,1,6.426,3.508,12.969,12.969,0,0,1,10.415,8.977Z" transform="translate(4.994 23.216)" fill="#fff"/>
+          <path id="Path_69-3" data-name="Path 69" d="M0,0H63.052V63.052H0Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(632.5 478)" clip-path="url(#clip-path-4)">
+      <g transform="translate(-633.5 -468)">
+        <line id="Line_12" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -431)">
+        <line id="Line_12-2" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -394)">
+        <line id="Line_12-3" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -357)">
+        <line id="Line_12-4" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -320)">
+        <line id="Line_12-5" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -283)">
+        <line id="Line_12-6" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -246)">
+        <line id="Line_12-7" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -209)">
+        <line id="Line_12-8" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -172)">
+        <line id="Line_12-9" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -135)">
+        <line id="Line_12-10" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-633.5 -98)">
+        <line id="Line_12-11" data-name="Line 12" x2="802" transform="translate(633.5 468.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Repeat_Grid_5" data-name="Repeat Grid 5" transform="translate(632 478.5)" clip-path="url(#clip-path-5)">
+      <g transform="translate(-632 -478.5)">
+        <line id="Line_13" data-name="Line 13" y2="445" transform="translate(632.5 478.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-522 -478.5)">
+        <line id="Line_13-2" data-name="Line 13" y2="445" transform="translate(632.5 478.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-412 -478.5)">
+        <line id="Line_13-3" data-name="Line 13" y2="445" transform="translate(632.5 478.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-302 -478.5)">
+        <line id="Line_13-4" data-name="Line 13" y2="445" transform="translate(632.5 478.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-192 -478.5)">
+        <line id="Line_13-5" data-name="Line 13" y2="445" transform="translate(632.5 478.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-82 -478.5)">
+        <line id="Line_13-6" data-name="Line 13" y2="445" transform="translate(632.5 478.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(28 -478.5)">
+        <line id="Line_13-7" data-name="Line 13" y2="445" transform="translate(632.5 478.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(138 -478.5)">
+        <line id="Line_13-8" data-name="Line 13" y2="445" transform="translate(632.5 478.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+    <path id="Path_77" data-name="Path 77" d="M6603,2093.5s6.118-259.449,46.554-259.669,16.525,109.112,49.442,109.3,11.524-184.17,44.849-183.883,55.872,221.312,93.168,221.387,17.161-184.441,49.264-184.5,23.369,45.995,47.391,73.577,18.756,21.66,42.272,41.12,30.27,25.208,55.744,46.456,43.916,24,43.916,24,21.951.84,45.773-36.107,28.919-63.356,45.094-111.679,21.533-74.567,45.126-74.567,31.118,25.342,49.137,74.567,19.175,110.97,46.614,110.722,24.243-192.31,48.526-220.821,44.309,110.1,44.309,110.1v260.018Z" transform="translate(-5970 -1170)" fill="url(#linear-gradient-22)"/>
+    <text id="JAN" transform="translate(665 963)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-32.113" y="0">JAN</tspan></text>
+    <text id="FEB" transform="translate(788 963)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-31.79" y="0">FEB</tspan></text>
+    <text id="MARCH" transform="translate(941 963)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-62.016" y="0">MARCH</tspan></text>
+    <text id="APRIL" transform="translate(1110 963)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-47.532" y="0">APRIL</tspan></text>
+    <text id="MAY" transform="translate(1265 963)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-35.581" y="0">MAY</tspan></text>
+    <text id="JUNE" transform="translate(1408 963)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-43.758" y="0">JUNE</tspan></text>
+    <text id="_0" data-name="0" transform="translate(613 927)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-9.452" y="0">0</tspan></text>
+    <text id="_5-2" data-name="5" transform="translate(613 786)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-9.452" y="0">5</tspan></text>
+    <text id="_10" data-name="10" transform="translate(604 645)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-18.904" y="0">10</tspan></text>
+    <text id="_15" data-name="15" transform="translate(604 504)" fill="#707070" font-size="34" font-family="HelveticaNeue, Helvetica Neue"><tspan x="-18.904" y="0">15</tspan></text>
+  </g>
+</svg>

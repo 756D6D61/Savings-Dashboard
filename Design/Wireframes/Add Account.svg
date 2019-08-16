@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x2="1.054" y2="0.947" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <filter id="Rectangle_36" x="66.5" y="-13.5" width="1987" height="1208" filterUnits="userSpaceOnUse">
+      <feOffset dx="100" dy="50" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x2="1.054" y2="0.947" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.966"/>
+      <stop offset="1" stop-color="#fc00ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="284.706" height="168.12" rx="13" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" y1="0.38" x2="1.107" y2="0.241" xlink:href="#linear-gradient"/>
+    <filter id="Path_49" x="55.207" y="446.335" width="577.361" height="493.123" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-2"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_48" x="53.271" y="448.915" width="503.615" height="490.543" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-3"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <filter id="Path_47" x="51.027" y="443.347" width="376.627" height="451.054" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-4"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-6" x1="0.5" y1="-0.103" x2="0.365" y2="1.524" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="Path_50" x="361.389" y="431.308" width="230.787" height="225.161" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="14.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-7" x1="0.699" y1="-0.056" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+    <filter id="Ellipse_7" x="16.64" y="497.611" width="511.105" height="511.106" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="37" result="blur-6"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_18">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_18" data-name="Web 1920 – 18" clip-path="url(#clip-Web_1920_18)">
+    <rect width="1920" height="1080" fill="#f5f5f5"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_36)">
+      <rect id="Rectangle_36-2" data-name="Rectangle 36" width="1690" height="911" rx="43" transform="translate(115 85)" fill="#fff"/>
+    </g>
+    <line id="Line_9" data-name="Line 9" x2="1690" transform="translate(115.5 255.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="User" transform="translate(1583 198)" fill="#707070" font-size="63" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">User</tspan></text>
+    <g id="card3" transform="translate(194.294 408.238)">
+      <path id="background" d="M9.873,0H274.833a9.873,9.873,0,0,1,9.873,9.873V158.247a9.873,9.873,0,0,1-9.873,9.873H9.873A9.873,9.873,0,0,1,0,158.247V9.873A9.873,9.873,0,0,1,9.873,0Z" transform="translate(-14 132)" fill="url(#linear-gradient-2)"/>
+      <g id="Card_Design" data-name="Card Design" transform="translate(-14 132)" clip-path="url(#clip-path)">
+        <g id="Group_38" data-name="Group 38" transform="translate(-52.654 -65.429)">
+          <g transform="matrix(1, 0, 0, 1, -127.64, -474.81)" filter="url(#Path_49)">
+            <path id="Path_49-2" data-name="Path 49" d="M0,0S258.821,7.749,317.723,73.947s79.638,195.224,79.638,195.224L90.423,313.123Z" transform="translate(145.21 533.33)" fill="url(#linear-gradient-3)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -127.64, -474.81)" filter="url(#Path_48)">
+            <path id="Path_48-2" data-name="Path 48" d="M0,0S176.676,24.055,235.578,90.253,323.615,266.59,323.615,266.59L16.677,310.543Z" transform="translate(143.27 535.91)" fill="url(#linear-gradient-3)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -127.64, -474.81)" filter="url(#Path_47)">
+            <path id="Path_47-2" data-name="Path 47" d="M12.909,0S104,46.614,149.609,102.079s47.018,130.068,47.018,130.068L0,271.054Z" transform="translate(141.03 530.35)" fill="url(#linear-gradient-5)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -127.64, -474.81)" filter="url(#Path_50)">
+            <path id="Path_50-2" data-name="Path 50" d="M0,0S.392,40.467,28.127,75.007s82.812,63.152,82.812,63.152,50.144.7,26.524-26.561S0,0,0,0Z" transform="translate(404.89 474.81)" fill="url(#linear-gradient-6)"/>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -127.64, -474.81)" filter="url(#Ellipse_7)">
+            <ellipse id="Ellipse_7-2" data-name="Ellipse 7" cx="118.027" cy="118.027" rx="118.027" ry="118.027" transform="matrix(-0.26, 0.97, -0.97, -0.26, 416.75, 666.71)" opacity="0.702" fill="url(#linear-gradient-7)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Card_Text" data-name="Card Text" transform="translate(-1.302 132.409)">
+        <text id="OLLI_FARLEY" data-name="OLLI FARLEY" transform="translate(1.69 134.493)" fill="#fff" font-size="15" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">OLLI FARLEY</tspan></text>
+        <text id="Regalia" transform="translate(1.69 10)" fill="#fff" font-size="11" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Regalia</tspan></text>
+        <text id="_5535_" data-name="5535 " transform="translate(0 68.904)" fill="#fff" font-size="19" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535</tspan><tspan y="0" fill="#000"> </tspan></text>
+        <text id="_" data-name="••••" transform="translate(65.052 69.3)" fill="#fff" font-size="28" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+        <text id="_2" data-name="••••" transform="translate(120.81 69.3)" fill="#fff" font-size="28" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+        <text id="_2296" data-name="2296" transform="translate(174.879 68.904)" fill="#fff" font-size="19" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+        <g id="visa_logo" data-name="visa logo" transform="translate(196.746 97.103)">
+          <g id="Group_46" data-name="Group 46" transform="translate(4.994 22.919)">
+            <path id="Path_67" data-name="Path 67" d="M23,16.928h-4.33L21.38.3h4.33ZM15.031.3,10.9,11.736l-.488-2.463h0L8.958,1.795A1.854,1.854,0,0,0,6.9.3H.08L0,.579a16.2,16.2,0,0,1,4.529,1.9L8.291,16.929H12.8L19.691.3ZM49.088,16.928h3.976L49.6.3H46.117a1.99,1.99,0,0,0-2,1.239L37.66,16.928h4.514l.9-2.47h5.5Zm-4.765-5.883L46.6,4.821l1.28,6.224ZM38,4.3,38.617.725A12.5,12.5,0,0,0,34.722,0c-2.149,0-7.251.939-7.251,5.506,0,4.3,5.989,4.35,5.989,6.607s-5.372,1.852-7.145.429l-.644,3.734a12.134,12.134,0,0,0,4.887.939c2.955,0,7.412-1.53,7.412-5.694,0-4.324-6.043-4.727-6.043-6.607S36.146,3.276,38,4.3Z" transform="translate(0 0)" fill="#fff"/>
+          </g>
+          <path id="Path_68" data-name="Path 68" d="M10.415,8.977,8.958,1.5A1.854,1.854,0,0,0,6.9,0H.08L0,.282A16.776,16.776,0,0,1,6.426,3.508,12.969,12.969,0,0,1,10.415,8.977Z" transform="translate(4.994 23.216)" fill="#fff"/>
+          <path id="Path_69" data-name="Path 69" d="M0,0H63.052V63.052H0Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="Account_Name" data-name="Account Name" transform="translate(563 505)" fill="#707070" font-size="63" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Account Name</tspan></text>
+    <g id="Rectangle_53" data-name="Rectangle 53" transform="translate(1037 445)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="612" height="92" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="611" height="91" rx="14.5" fill="none"/>
+    </g>
+    <text id="Add_Account" data-name="Add Account" transform="translate(671 391)" fill="#707070" font-size="110" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Add Account</tspan></text>
+    <text id="Interest_Rate" data-name="Interest Rate" transform="translate(563 642)" fill="#707070" font-size="63" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Interest Rate</tspan></text>
+    <g id="Rectangle_54" data-name="Rectangle 54" transform="translate(1037 582)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="612" height="92" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="611" height="91" rx="14.5" fill="none"/>
+    </g>
+    <text id="Savings_Goals" data-name="Savings Goals" transform="translate(563 779)" fill="#707070" font-size="63" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Savings Goals</tspan></text>
+    <g id="Rectangle_55" data-name="Rectangle 55" transform="translate(1037 719)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="612" height="92" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="611" height="91" rx="14.5" fill="none"/>
+    </g>
+    <line id="Line_17" data-name="Line 17" y2="92" transform="translate(1484.5 582.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <line id="Line_18" data-name="Line 18" y2="92" transform="translate(1484.5 719.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="_Month" data-name="/Month" transform="translate(1500 643)" fill="#707070" font-size="41" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">/Month</tspan></text>
+    <text id="_Month-2" data-name="/Month" transform="translate(1500 780)" fill="#707070" font-size="41" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">/Month</tspan></text>
+  </g>
+</svg>
