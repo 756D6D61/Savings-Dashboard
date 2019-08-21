@@ -17,7 +17,7 @@ class Test extends Component {
         const { seo_title } = this.state;
         return (
           <form id="article-form">
-          <p>This is a Test</p>
+          <p>This is a Testg</p>
             <testInput
               text="SEO title"
               label="seo_title"
