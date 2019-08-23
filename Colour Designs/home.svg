@@ -1,0 +1,357 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="linear-gradient" x1="3.558" y1="1" x2="-3.391" y2="0.014" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f6c7cf" stop-opacity="0.051"/>
+      <stop offset="0" stop-color="#f6bfc9" stop-opacity="0.188"/>
+      <stop offset="0" stop-color="#c1e9ff" stop-opacity="0.729"/>
+      <stop offset="1" stop-color="#f88fa5" stop-opacity="0.188"/>
+    </linearGradient>
+    <filter id="Path_70" x="-8" y="108" width="688" height="445" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8" x="647" y="108" width="688" height="445" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_9" x="1301" y="108" width="688" height="445" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.5" x2="0.042" y2="0.66" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c1e9ff" stop-opacity="0.729"/>
+      <stop offset="1" stop-color="#f6bfc9" stop-opacity="0.188"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="903" height="405" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Web_1920_4">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_4" data-name="Web 1920 – 4" clip-path="url(#clip-Web_1920_4)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="1961" height="1106" transform="translate(0 117)" fill="#e6e6e6"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="903" height="529" rx="14" transform="translate(981 530)" fill="#fff"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="1920" height="101" fill="#f0f0f0"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="16" height="1920" transform="translate(0 117) rotate(-90)" fill="url(#linear-gradient)"/>
+    <text id="Welcome_User" data-name="Welcome, User" transform="translate(1570 75)" fill="#a5a5a5" font-size="45" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Welcome, User</tspan></text>
+    <g id="Head_Front_Short-2" data-name="Head/Front/Short-2" transform="translate(1508 11)">
+      <g id="Head" transform="translate(2.585 7)">
+        <path id="Path_14" data-name="Path 14" d="M33.738,34.49c4.608-5.409,7.727-12.037,7.206-19.465C39.442-6.375,9.652-1.667,3.857,9.134s-5.106,38.2,2.383,40.13c2.987.77,9.349-1.116,15.825-5.019L18,73H42Z" fill="#b28b67" fill-rule="evenodd"/>
+      </g>
+      <path id="Hair" d="M88.167,70.308c3.012-13.4,11.594-22.536,10.283-28.526a9.085,9.085,0,0,0-6.986-7.45q-2.935-11.875-18.934-10.1C56.53,26,46.765,32.648,50.982,47.268c3.876,0,8.556-1.4,15.027,1q3.08,1.143,4.406,7.09h2.924q4.257-7.057,8.4-5.187t1.881,9.087l1.44,11.049Z" transform="translate(-50 -24)" fill="#191847" fill-rule="evenodd"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_70)">
+      <path id="Path_70-2" data-name="Path 70" d="M37,0H501a37,37,0,0,1,37,37V258a37,37,0,0,1-37,37H37A37,37,0,0,1,0,258V37A37,37,0,0,1,37,0Z" transform="translate(37 153)" fill="#ead3d3"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_8)">
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" width="538" height="295" rx="37" transform="translate(692 153)" fill="#bdd4e5"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_9)">
+      <rect id="Rectangle_9-2" data-name="Rectangle 9" width="538" height="295" rx="37" transform="translate(1346 153)" fill="#b3e8c5"/>
+    </g>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="237" height="65" rx="10" transform="translate(37 26)" fill="url(#linear-gradient-2)"/>
+    <text id="Add_Account" data-name="Add Account" transform="translate(51 72)" fill="#a5a5a5" font-size="34" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Add Account</tspan></text>
+    <g id="Column_Chart1" data-name="Column Chart1" transform="translate(-3980 504)">
+      <g id="Chart" transform="translate(-953 -646)">
+        <g id="m1">
+          <rect id="Rectangle_24" data-name="Rectangle 24" width="38" height="98.182" transform="translate(4999 1044.818)" fill="#8ec5ef"/>
+          <rect id="Rectangle_25" data-name="Rectangle 25" width="38" height="261.818" transform="translate(5075 881.182)" fill="#8ec5ef"/>
+          <rect id="Rectangle_26" data-name="Rectangle 26" width="38" height="229.091" transform="translate(5151 913.909)" fill="#8ec5ef"/>
+          <rect id="Rectangle_27" data-name="Rectangle 27" width="38" height="98.182" transform="translate(5227 1044.818)" fill="#8ec5ef"/>
+          <rect id="Rectangle_28" data-name="Rectangle 28" width="38" height="216" transform="translate(5303 927)" fill="#8ec5ef"/>
+          <rect id="Rectangle_29" data-name="Rectangle 29" width="38" height="360" transform="translate(5379 783)" fill="#8ec5ef"/>
+          <rect id="Rectangle_30" data-name="Rectangle 30" width="38" height="196.364" transform="translate(5455 946.636)" fill="#8ec5ef"/>
+          <rect id="Rectangle_31" data-name="Rectangle 31" width="38" height="294.545" transform="translate(5531 848.455)" fill="#8ec5ef"/>
+          <rect id="Rectangle_32" data-name="Rectangle 32" width="38" height="392.727" transform="translate(5607 750.273)" fill="#8ec5ef"/>
+          <rect id="Rectangle_33" data-name="Rectangle 33" width="38" height="360" transform="translate(5683 783)" fill="#8ec5ef"/>
+          <rect id="Rectangle_34" data-name="Rectangle 34" width="38" height="288" transform="translate(5759 855)" fill="#8ec5ef"/>
+          <rect id="Rectangle_35" data-name="Rectangle 35" width="38" height="504" transform="translate(5835 639)" fill="#8ec5ef"/>
+        </g>
+      </g>
+    </g>
+    <g id="Line_Chart2" data-name="Line Chart2" transform="translate(500 797)">
+      <g id="Chart-2" data-name="Chart">
+        <g id="m1-2" data-name="m1">
+          <path id="Path_22" data-name="Path 22" d="M0,406c26.485-68.538,52.97-137.076,79.455-164s52.97-12.234,79.455,33,52.97,121.013,79.455,131,52.97-45.819,79.455-118,52.97-160.738,79.455-144,52.97,138.772,79.455,164,52.97-46.351,79.455-99,52.97-86.37,79.455-98,52.97-1.17,79.455,33,52.97,92.048,79.455,72S847.515,97.976,874,0" transform="translate(-437 -252)" fill="none" stroke="#deaab3" stroke-width="3"/>
+          <g id="Marks" transform="translate(-5 -5)">
+            <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(-437 154)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(-357.545 -10)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(-278.091 23)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(-198.636 154)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(-119.182 36)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(-39.727 -108)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(39.727 56)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(119.182 -43)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_9" data-name="Ellipse 9" transform="translate(198.636 -141)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_10" data-name="Ellipse 10" transform="translate(278.091 -108)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_11" data-name="Ellipse 11" transform="translate(357.545 -36)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+            <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(437 -252)" fill="#fff" stroke="#deaab3" stroke-width="3">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="3.5" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="X_Axis_Line" data-name="X Axis Line">
+        <line id="Line_2" data-name="Line 2" x2="874" transform="translate(-437 252)" fill="none" stroke="#deaab3" stroke-width="1"/>
+      </g>
+      <g id="X_Axis" data-name="X Axis">
+        <text id="Jan" transform="translate(-437 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.674" y="0">Jan</tspan></text>
+        <text id="Feb" transform="translate(-357.545 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.339" y="0">Feb</tspan></text>
+        <text id="Mar" transform="translate(-278.091 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.333" y="0">Mar</tspan></text>
+        <text id="Apr" transform="translate(-198.636 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.337" y="0">Apr</tspan></text>
+        <text id="May" transform="translate(-119.182 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-11.335" y="0">May</tspan></text>
+        <text id="Jun" transform="translate(-39.727 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.674" y="0">Jun</tspan></text>
+        <text id="Jul" transform="translate(39.727 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-7.67" y="0">Jul</tspan></text>
+        <text id="Aug" transform="translate(119.182 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.676" y="0">Aug</tspan></text>
+        <text id="Sep" transform="translate(198.636 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.676" y="0">Sep</tspan></text>
+        <text id="Oct" transform="translate(278.091 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.334" y="0">Oct</tspan></text>
+        <text id="Nov" transform="translate(357.545 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.67" y="0">Nov</tspan></text>
+        <text id="Dec" transform="translate(437 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.67" y="0">Dec</tspan></text>
+      </g>
+      <g id="X_Axis-2" data-name="X Axis">
+        <text id="Jan-2" data-name="Jan" transform="translate(-437 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.674" y="0">Jan</tspan></text>
+        <text id="Feb-2" data-name="Feb" transform="translate(-357.545 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.339" y="0">Feb</tspan></text>
+        <text id="Mar-2" data-name="Mar" transform="translate(-278.091 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.333" y="0">Mar</tspan></text>
+        <text id="Apr-2" data-name="Apr" transform="translate(-198.636 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.337" y="0">Apr</tspan></text>
+        <text id="May-2" data-name="May" transform="translate(-119.182 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-11.335" y="0">May</tspan></text>
+        <text id="Jun-2" data-name="Jun" transform="translate(-39.727 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.674" y="0">Jun</tspan></text>
+        <text id="Jul-2" data-name="Jul" transform="translate(39.727 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-7.67" y="0">Jul</tspan></text>
+        <text id="Aug-2" data-name="Aug" transform="translate(119.182 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.676" y="0">Aug</tspan></text>
+        <text id="Sep-2" data-name="Sep" transform="translate(198.636 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.676" y="0">Sep</tspan></text>
+        <text id="Oct-2" data-name="Oct" transform="translate(278.091 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.334" y="0">Oct</tspan></text>
+        <text id="Nov-2" data-name="Nov" transform="translate(357.545 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.67" y="0">Nov</tspan></text>
+        <text id="Dec-2" data-name="Dec" transform="translate(437 269)" fill="#767676" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.67" y="0">Dec</tspan></text>
+      </g>
+      <g id="X_Axis-3" data-name="X Axis" transform="translate(945 -461)">
+        <text id="Jan-3" data-name="Jan" transform="translate(-427 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-24.185" y="0">Jan</tspan></text>
+        <text id="Feb-3" data-name="Feb" transform="translate(-347.545 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-25.847" y="0">Feb</tspan></text>
+        <text id="Mar-3" data-name="Mar" transform="translate(-260.446 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-25.833" y="0">Mar</tspan></text>
+        <text id="Apr-3" data-name="Apr" transform="translate(-177.047 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-23.342" y="0">Apr</tspan></text>
+        <text id="May-3" data-name="May" transform="translate(-93.814 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-28.337" y="0">May</tspan></text>
+        <text id="Jun-3" data-name="Jun" transform="translate(-10.467 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-24.185" y="0">Jun</tspan></text>
+        <text id="Jul-3" data-name="Jul" transform="translate(72.792 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-19.175" y="0">Jul</tspan></text>
+        <text id="Aug-3" data-name="Aug" transform="translate(156.203 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-26.689" y="0">Aug</tspan></text>
+        <text id="Sep-3" data-name="Sep" transform="translate(239.539 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-26.689" y="0">Sep</tspan></text>
+        <text id="Oct-3" data-name="Oct" transform="translate(326.756 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-23.335" y="0">Oct</tspan></text>
+        <text id="Nov-3" data-name="Nov" transform="translate(406.21 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-26.675" y="0">Nov</tspan></text>
+      </g>
+      <g id="X_Axis-4" data-name="X Axis" transform="translate(945 -371)">
+        <text id="_1" data-name="1" transform="translate(-427 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">1</tspan></text>
+        <text id="_10" data-name="10" transform="translate(-347.545 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">10</tspan></text>
+        <text id="_9" data-name="9" transform="translate(-260.446 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">9</tspan></text>
+        <text id="_8" data-name="8" transform="translate(-177.047 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">8</tspan></text>
+        <text id="_7" data-name="7" transform="translate(-93.814 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">7</tspan></text>
+        <text id="_5" data-name="5" transform="translate(-10.467 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">5</tspan></text>
+        <text id="_4" data-name="4" transform="translate(72.792 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">4</tspan></text>
+        <text id="_5-2" data-name="5" transform="translate(156.203 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">5</tspan></text>
+        <text id="_2" data-name="2" transform="translate(239.539 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">2</tspan></text>
+        <text id="_1-2" data-name="1" transform="translate(326.756 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">1</tspan></text>
+        <text id="_18" data-name="18" transform="translate(406.21 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">18</tspan></text>
+      </g>
+      <g id="X_Axis-5" data-name="X Axis" transform="translate(945 -281)">
+        <text id="_8-2" data-name="8" transform="translate(-427 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial" opacity="0.8"><tspan x="-8.342" y="0">8</tspan></text>
+        <text id="_2-2" data-name="2" transform="translate(-347.545 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">2</tspan></text>
+        <text id="_16" data-name="16" transform="translate(-260.446 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">16</tspan></text>
+        <text id="_3" data-name="3" transform="translate(-177.047 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">3</tspan></text>
+        <text id="_32" data-name="32" transform="translate(-93.814 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">32</tspan></text>
+        <text id="_8-3" data-name="8" transform="translate(-10.467 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">8</tspan></text>
+        <text id="_0" data-name="0" transform="translate(72.792 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial" opacity="0.9"><tspan x="-8.342" y="0">0</tspan></text>
+        <text id="_6" data-name="6" transform="translate(156.203 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">6</tspan></text>
+        <text id="_3-2" data-name="3" transform="translate(239.539 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">3</tspan></text>
+        <text id="_4-2" data-name="4" transform="translate(326.756 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">4</tspan></text>
+        <text id="_0-2" data-name="0" transform="translate(406.21 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">0</tspan></text>
+      </g>
+      <g id="X_Axis-6" data-name="X Axis" transform="translate(945 -191)">
+        <text id="_0-3" data-name="0" transform="translate(-427 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">0</tspan></text>
+        <text id="_0-4" data-name="0" transform="translate(-347.545 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">0</tspan></text>
+        <text id="_9-2" data-name="9" transform="translate(-260.446 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">9</tspan></text>
+        <text id="_10-2" data-name="10" transform="translate(-177.047 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">10</tspan></text>
+        <text id="_12" data-name="12" transform="translate(-93.814 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">12</tspan></text>
+        <text id="_3-3" data-name="3" transform="translate(-10.467 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">3</tspan></text>
+        <text id="_3-4" data-name="3" transform="translate(72.792 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">3</tspan></text>
+        <text id="_3-5" data-name="3" transform="translate(156.203 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">3</tspan></text>
+        <text id="_2-3" data-name="2" transform="translate(239.539 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">2</tspan></text>
+        <text id="_2-4" data-name="2" transform="translate(326.756 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">2</tspan></text>
+        <text id="_0-5" data-name="0" transform="translate(406.21 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">0</tspan></text>
+      </g>
+      <g id="X_Axis-7" data-name="X Axis" transform="translate(945 -116)">
+        <text id="_5-3" data-name="5" transform="translate(-427 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">5</tspan></text>
+        <text id="_16-2" data-name="16" transform="translate(-347.545 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">16</tspan></text>
+        <text id="_4-3" data-name="4" transform="translate(-260.446 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">4</tspan></text>
+        <text id="_7-2" data-name="7" transform="translate(-177.047 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">7</tspan></text>
+        <text id="_7-3" data-name="7" transform="translate(-93.814 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">7</tspan></text>
+        <text id="_5-4" data-name="5" transform="translate(-10.467 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">5</tspan></text>
+        <text id="_8-4" data-name="8" transform="translate(72.792 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">8</tspan></text>
+        <text id="_4-4" data-name="4" transform="translate(156.203 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">4</tspan></text>
+        <text id="_6-2" data-name="6" transform="translate(239.539 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">6</tspan></text>
+        <text id="_2-5" data-name="2" transform="translate(326.756 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">2</tspan></text>
+        <text id="_5-5" data-name="5" transform="translate(406.21 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">5</tspan></text>
+      </g>
+    </g>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(981.5 641)" clip-path="url(#clip-path)">
+      <g transform="translate(-981.5 -641)">
+        <line id="Line_3" data-name="Line 3" x2="903" transform="translate(981.5 641.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-981.5 -557)">
+        <line id="Line_3-2" data-name="Line 3" x2="903" transform="translate(981.5 641.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-981.5 -473)">
+        <line id="Line_3-3" data-name="Line 3" x2="903" transform="translate(981.5 641.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-981.5 -389)">
+        <line id="Line_3-4" data-name="Line 3" x2="903" transform="translate(981.5 641.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+      <g transform="translate(-981.5 -305)">
+        <line id="Line_3-5" data-name="Line 3" x2="903" transform="translate(981.5 641.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="X_Axis-8" data-name="X Axis" transform="translate(1445 759)">
+      <text id="_1-3" data-name="1" transform="translate(-427 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">1</tspan></text>
+      <text id="_10-3" data-name="10" transform="translate(-347.545 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">10</tspan></text>
+      <text id="_5-6" data-name="5" transform="translate(-260.446 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">5</tspan></text>
+      <text id="_2-6" data-name="2" transform="translate(-177.047 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">2</tspan></text>
+      <text id="_22" data-name="22" transform="translate(-93.814 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">22</tspan></text>
+      <text id="_3-6" data-name="3" transform="translate(-10.467 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">3</tspan></text>
+      <text id="_6-3" data-name="6" transform="translate(72.792 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">6</tspan></text>
+      <text id="_8-5" data-name="8" transform="translate(156.203 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">8</tspan></text>
+      <text id="_19" data-name="19" transform="translate(239.539 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-16.685" y="0">19</tspan></text>
+      <text id="_1-4" data-name="1" transform="translate(326.756 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">1</tspan></text>
+      <text id="_0-6" data-name="0" transform="translate(406.21 269)" fill="#767676" font-size="30" font-family="ArialMT, Arial"><tspan x="-8.342" y="0">0</tspan></text>
+    </g>
+    <g id="Text" transform="translate(68.185 191.421)">
+      <text id="ALISSA_CORBETT" data-name="ALISSA CORBETT" transform="translate(3.274 201.262)" fill="#5f5f5f" font-size="30" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">ALISSA CORBETT</tspan></text>
+      <text id="Solitaire" transform="translate(3.274 20)" fill="#5f5f5f" font-size="22" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Solitaire</tspan></text>
+      <text id="_5535_" data-name="5535 " transform="translate(0 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535 </tspan></text>
+      <text id="_" data-name="••••" transform="translate(126.06 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_2-7" data-name="••••" transform="translate(234.112 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_2296" data-name="2296" transform="translate(338.889 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+      <g id="visalogo" transform="translate(379.162 133.393)">
+        <g id="Group_46" data-name="Group 46" transform="translate(9.678 44.414)">
+          <path id="Path_67" data-name="Path 67" d="M44.578,32.8H36.187L41.431.576h8.392ZM29.128.576l-8,22.167-.947-4.773v0L17.36,3.478s-.341-2.9-3.98-2.9H.155L0,1.122A31.39,31.39,0,0,1,8.777,4.805l7.29,28h8.742L38.159.576Zm66,32.228h7.7L96.113.575H89.368a3.856,3.856,0,0,0-3.873,2.4L72.98,32.8h8.747l1.749-4.787H94.143ZM85.893,21.4,90.3,9.343,92.782,21.4ZM73.636,8.326l1.2-6.921A24.219,24.219,0,0,0,67.287,0C63.123,0,53.235,1.82,53.235,10.669c0,8.326,11.605,8.43,11.605,12.8S54.431,27.062,51,24.3L49.748,31.54a23.514,23.514,0,0,0,9.471,1.82c5.726,0,14.364-2.965,14.364-11.034,0-8.38-11.71-9.16-11.71-12.8s8.173-3.176,11.763-1.2Z" transform="translate(0 0)" fill="#5f5f5f"/>
+        </g>
+        <path id="Path_68" data-name="Path 68" d="M20.183,17.4,17.36,2.9S17.019,0,13.38,0H.155L0,.546A32.51,32.51,0,0,1,12.453,6.8,25.131,25.131,0,0,1,20.183,17.4Z" transform="translate(9.678 44.989)" fill="#5f5f5f"/>
+        <path id="Path_69" data-name="Path 69" d="M0,0H122.186V122.186H0Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Text-2" data-name="Text" transform="translate(68.185 191.421)">
+      <text id="ALISSA_CORBETT-2" data-name="ALISSA CORBETT" transform="translate(3.274 201.262)" fill="#5f5f5f" font-size="30" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">ALISSA CORBETT</tspan></text>
+      <text id="Solitaire-2" data-name="Solitaire" transform="translate(3.274 20)" fill="#5f5f5f" font-size="22" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Solitaire</tspan></text>
+      <text id="_5535_2" data-name="5535 " transform="translate(0 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535 </tspan></text>
+      <text id="_3-7" data-name="••••" transform="translate(126.06 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_4-5" data-name="••••" transform="translate(234.112 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_2296-2" data-name="2296" transform="translate(338.889 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+      <g id="visalogo-2" data-name="visalogo" transform="translate(379.162 133.393)">
+        <g id="Group_46-2" data-name="Group 46" transform="translate(9.678 44.414)">
+          <path id="Path_67-2" data-name="Path 67" d="M44.578,32.8H36.187L41.431.576h8.392ZM29.128.576l-8,22.167-.947-4.773v0L17.36,3.478s-.341-2.9-3.98-2.9H.155L0,1.122A31.39,31.39,0,0,1,8.777,4.805l7.29,28h8.742L38.159.576Zm66,32.228h7.7L96.113.575H89.368a3.856,3.856,0,0,0-3.873,2.4L72.98,32.8h8.747l1.749-4.787H94.143ZM85.893,21.4,90.3,9.343,92.782,21.4ZM73.636,8.326l1.2-6.921A24.219,24.219,0,0,0,67.287,0C63.123,0,53.235,1.82,53.235,10.669c0,8.326,11.605,8.43,11.605,12.8S54.431,27.062,51,24.3L49.748,31.54a23.514,23.514,0,0,0,9.471,1.82c5.726,0,14.364-2.965,14.364-11.034,0-8.38-11.71-9.16-11.71-12.8s8.173-3.176,11.763-1.2Z" transform="translate(0 0)" fill="#5f5f5f"/>
+        </g>
+        <path id="Path_68-2" data-name="Path 68" d="M20.183,17.4,17.36,2.9S17.019,0,13.38,0H.155L0,.546A32.51,32.51,0,0,1,12.453,6.8,25.131,25.131,0,0,1,20.183,17.4Z" transform="translate(9.678 44.989)" fill="#5f5f5f"/>
+        <path id="Path_69-2" data-name="Path 69" d="M0,0H122.186V122.186H0Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Text-3" data-name="Text" transform="translate(728.185 191.421)">
+      <text id="ALISSA_CORBETT-3" data-name="ALISSA CORBETT" transform="translate(3.274 201.262)" fill="#5f5f5f" font-size="30" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">ALISSA CORBETT</tspan></text>
+      <text id="Solitaire-3" data-name="Solitaire" transform="translate(3.274 20)" fill="#5f5f5f" font-size="22" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Solitaire</tspan></text>
+      <text id="_5535_3" data-name="5535 " transform="translate(0 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535 </tspan></text>
+      <text id="_5-7" data-name="••••" transform="translate(126.06 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_6-4" data-name="••••" transform="translate(234.112 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_2296-3" data-name="2296" transform="translate(338.889 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+      <g id="visalogo-3" data-name="visalogo" transform="translate(379.162 133.393)">
+        <g id="Group_46-3" data-name="Group 46" transform="translate(9.678 44.414)">
+          <path id="Path_67-3" data-name="Path 67" d="M44.578,32.8H36.187L41.431.576h8.392ZM29.128.576l-8,22.167-.947-4.773v0L17.36,3.478s-.341-2.9-3.98-2.9H.155L0,1.122A31.39,31.39,0,0,1,8.777,4.805l7.29,28h8.742L38.159.576Zm66,32.228h7.7L96.113.575H89.368a3.856,3.856,0,0,0-3.873,2.4L72.98,32.8h8.747l1.749-4.787H94.143ZM85.893,21.4,90.3,9.343,92.782,21.4ZM73.636,8.326l1.2-6.921A24.219,24.219,0,0,0,67.287,0C63.123,0,53.235,1.82,53.235,10.669c0,8.326,11.605,8.43,11.605,12.8S54.431,27.062,51,24.3L49.748,31.54a23.514,23.514,0,0,0,9.471,1.82c5.726,0,14.364-2.965,14.364-11.034,0-8.38-11.71-9.16-11.71-12.8s8.173-3.176,11.763-1.2Z" transform="translate(0 0)" fill="#5f5f5f"/>
+        </g>
+        <path id="Path_68-3" data-name="Path 68" d="M20.183,17.4,17.36,2.9S17.019,0,13.38,0H.155L0,.546A32.51,32.51,0,0,1,12.453,6.8,25.131,25.131,0,0,1,20.183,17.4Z" transform="translate(9.678 44.989)" fill="#5f5f5f"/>
+        <path id="Path_69-3" data-name="Path 69" d="M0,0H122.186V122.186H0Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Text-4" data-name="Text" transform="translate(728.185 191.421)">
+      <text id="ALISSA_CORBETT-4" data-name="ALISSA CORBETT" transform="translate(3.274 201.262)" fill="#5f5f5f" font-size="30" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">ALISSA CORBETT</tspan></text>
+      <text id="Solitaire-4" data-name="Solitaire" transform="translate(3.274 20)" fill="#5f5f5f" font-size="22" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Solitaire</tspan></text>
+      <text id="_5535_4" data-name="5535 " transform="translate(0 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535 </tspan></text>
+      <text id="_7-4" data-name="••••" transform="translate(126.06 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_8-6" data-name="••••" transform="translate(234.112 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_2296-4" data-name="2296" transform="translate(338.889 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+      <g id="visalogo-4" data-name="visalogo" transform="translate(379.162 133.393)">
+        <g id="Group_46-4" data-name="Group 46" transform="translate(9.678 44.414)">
+          <path id="Path_67-4" data-name="Path 67" d="M44.578,32.8H36.187L41.431.576h8.392ZM29.128.576l-8,22.167-.947-4.773v0L17.36,3.478s-.341-2.9-3.98-2.9H.155L0,1.122A31.39,31.39,0,0,1,8.777,4.805l7.29,28h8.742L38.159.576Zm66,32.228h7.7L96.113.575H89.368a3.856,3.856,0,0,0-3.873,2.4L72.98,32.8h8.747l1.749-4.787H94.143ZM85.893,21.4,90.3,9.343,92.782,21.4ZM73.636,8.326l1.2-6.921A24.219,24.219,0,0,0,67.287,0C63.123,0,53.235,1.82,53.235,10.669c0,8.326,11.605,8.43,11.605,12.8S54.431,27.062,51,24.3L49.748,31.54a23.514,23.514,0,0,0,9.471,1.82c5.726,0,14.364-2.965,14.364-11.034,0-8.38-11.71-9.16-11.71-12.8s8.173-3.176,11.763-1.2Z" transform="translate(0 0)" fill="#5f5f5f"/>
+        </g>
+        <path id="Path_68-4" data-name="Path 68" d="M20.183,17.4,17.36,2.9S17.019,0,13.38,0H.155L0,.546A32.51,32.51,0,0,1,12.453,6.8,25.131,25.131,0,0,1,20.183,17.4Z" transform="translate(9.678 44.989)" fill="#5f5f5f"/>
+        <path id="Path_69-4" data-name="Path 69" d="M0,0H122.186V122.186H0Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Text-5" data-name="Text" transform="translate(1377.185 191.421)">
+      <text id="ALISSA_CORBETT-5" data-name="ALISSA CORBETT" transform="translate(3.274 201.262)" fill="#5f5f5f" font-size="30" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">ALISSA CORBETT</tspan></text>
+      <text id="Solitaire-5" data-name="Solitaire" transform="translate(3.274 20)" fill="#5f5f5f" font-size="22" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Solitaire</tspan></text>
+      <text id="_5535_5" data-name="5535 " transform="translate(0 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535 </tspan></text>
+      <text id="_9-3" data-name="••••" transform="translate(126.06 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_10-4" data-name="••••" transform="translate(234.112 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_2296-5" data-name="2296" transform="translate(338.889 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+      <g id="visalogo-5" data-name="visalogo" transform="translate(379.162 133.393)">
+        <g id="Group_46-5" data-name="Group 46" transform="translate(9.678 44.414)">
+          <path id="Path_67-5" data-name="Path 67" d="M44.578,32.8H36.187L41.431.576h8.392ZM29.128.576l-8,22.167-.947-4.773v0L17.36,3.478s-.341-2.9-3.98-2.9H.155L0,1.122A31.39,31.39,0,0,1,8.777,4.805l7.29,28h8.742L38.159.576Zm66,32.228h7.7L96.113.575H89.368a3.856,3.856,0,0,0-3.873,2.4L72.98,32.8h8.747l1.749-4.787H94.143ZM85.893,21.4,90.3,9.343,92.782,21.4ZM73.636,8.326l1.2-6.921A24.219,24.219,0,0,0,67.287,0C63.123,0,53.235,1.82,53.235,10.669c0,8.326,11.605,8.43,11.605,12.8S54.431,27.062,51,24.3L49.748,31.54a23.514,23.514,0,0,0,9.471,1.82c5.726,0,14.364-2.965,14.364-11.034,0-8.38-11.71-9.16-11.71-12.8s8.173-3.176,11.763-1.2Z" transform="translate(0 0)" fill="#5f5f5f"/>
+        </g>
+        <path id="Path_68-5" data-name="Path 68" d="M20.183,17.4,17.36,2.9S17.019,0,13.38,0H.155L0,.546A32.51,32.51,0,0,1,12.453,6.8,25.131,25.131,0,0,1,20.183,17.4Z" transform="translate(9.678 44.989)" fill="#5f5f5f"/>
+        <path id="Path_69-5" data-name="Path 69" d="M0,0H122.186V122.186H0Z" fill="none"/>
+      </g>
+    </g>
+    <g id="Text-6" data-name="Text" transform="translate(1377.185 191.421)">
+      <text id="ALISSA_CORBETT-6" data-name="ALISSA CORBETT" transform="translate(3.274 201.262)" fill="#5f5f5f" font-size="30" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">ALISSA CORBETT</tspan></text>
+      <text id="Solitaire-6" data-name="Solitaire" transform="translate(3.274 20)" fill="#5f5f5f" font-size="22" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">Solitaire</tspan></text>
+      <text id="_5535_6" data-name="5535 " transform="translate(0 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">5535 </tspan></text>
+      <text id="_11" data-name="••••" transform="translate(126.06 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_12-2" data-name="••••" transform="translate(234.112 115.058)" fill="#5f5f5f" font-size="54" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">••••</tspan></text>
+      <text id="_2296-6" data-name="2296" transform="translate(338.889 113.04)" fill="#5f5f5f" font-size="38" font-family="ProximaNovaT-Thin, Proxima Nova" font-weight="200" letter-spacing="0.012em"><tspan x="0" y="0">2296</tspan></text>
+      <g id="visalogo-6" data-name="visalogo" transform="translate(379.162 133.393)">
+        <g id="Group_46-6" data-name="Group 46" transform="translate(9.678 44.414)">
+          <path id="Path_67-6" data-name="Path 67" d="M44.578,32.8H36.187L41.431.576h8.392ZM29.128.576l-8,22.167-.947-4.773v0L17.36,3.478s-.341-2.9-3.98-2.9H.155L0,1.122A31.39,31.39,0,0,1,8.777,4.805l7.29,28h8.742L38.159.576Zm66,32.228h7.7L96.113.575H89.368a3.856,3.856,0,0,0-3.873,2.4L72.98,32.8h8.747l1.749-4.787H94.143ZM85.893,21.4,90.3,9.343,92.782,21.4ZM73.636,8.326l1.2-6.921A24.219,24.219,0,0,0,67.287,0C63.123,0,53.235,1.82,53.235,10.669c0,8.326,11.605,8.43,11.605,12.8S54.431,27.062,51,24.3L49.748,31.54a23.514,23.514,0,0,0,9.471,1.82c5.726,0,14.364-2.965,14.364-11.034,0-8.38-11.71-9.16-11.71-12.8s8.173-3.176,11.763-1.2Z" transform="translate(0 0)" fill="#5f5f5f"/>
+        </g>
+        <path id="Path_68-6" data-name="Path 68" d="M20.183,17.4,17.36,2.9S17.019,0,13.38,0H.155L0,.546A32.51,32.51,0,0,1,12.453,6.8,25.131,25.131,0,0,1,20.183,17.4Z" transform="translate(9.678 44.989)" fill="#5f5f5f"/>
+        <path id="Path_69-6" data-name="Path 69" d="M0,0H122.186V122.186H0Z" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
