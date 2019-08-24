@@ -6,7 +6,8 @@ import Test from './components/test'
 import LogIn from './components/logIn'
 import SignUp from './components/signUp'
 import Home from './components/home'
-
+import NewAccount from './components/newAccount'
+import ViewAccount from './components/viewAccount'
 
 class App extends React.Component{
     render(){
@@ -17,8 +18,9 @@ class App extends React.Component{
                 <LogIn />
                 <SignUp />
                 <Home />
+                <NewAccount />
+                <ViewAccount />
                 </div>
-            
         )
     }
 }
