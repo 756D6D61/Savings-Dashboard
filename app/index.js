@@ -1,8 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import 'bootstrap/dist/css/bootstrap.css';
 import Test from './components/test'
-import LogIn from './components/login'
+import LogIn from './components/logIn'
+import SignUp from './components/signUp'
+import Home from './components/home'
+
+
 class App extends React.Component{
     render(){
         return(
@@ -10,6 +15,8 @@ class App extends React.Component{
                 Hello World
                 <Test />
                 <LogIn />
+                <SignUp />
+                <Home />
                 </div>
             
         )

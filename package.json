@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "babel":{
-    "presets" : [
+  "babel": {
+    "presets": [
       "@babel/preset-env",
       "@babel/preset-react"
     ]
@@ -26,8 +26,10 @@
   },
   "homepage": "https://github.com/756D6D61/Savings-Dashboard#readme",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "react": "^16.9.0",
-    "react-dom": "^16.9.0"
+    "react-dom": "^16.9.0",
+    "reactstrap": "^8.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
