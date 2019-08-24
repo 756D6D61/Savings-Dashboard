@@ -12,3 +12,10 @@ Authentication has been implemented into the dashboard to ensure the user's deta
 * The back-end of this dashboard was builting using node.js and oAuth 
 * Firebase has been implemented in the user authentication 
 * Jest/Enzyme/Cypress are libraries that have been used to test the front-end
+
+### Aims of the app 
+* User should be able to sign up/log in 
+* A savings goal can be saved 
+* User can see their savings goals and analysis of their savings on home page
+* A savings account and details can be added to the dashboard and shows up on the home page
+* User can see details of the details saved of the account 
