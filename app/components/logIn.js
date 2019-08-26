@@ -5,7 +5,7 @@ import Form from './LogIn/form'
 class LogIn extends Component{
     render(){
         return(
-            <div>
+            <div className="auth">
                 <h1>Log In</h1>
                 <Form />
             </div>
