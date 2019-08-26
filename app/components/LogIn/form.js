@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Form, Label, FormGroup, Input } from 'reactstrap'
+import { Form, Label, FormGroup, Button, Input } from 'reactstrap'
 
 class LogInForm extends Component{
     render(){
@@ -13,6 +13,7 @@ class LogInForm extends Component{
                     <Label>Password</Label>
                     <Input />
                 </FormGroup>
+                <Button>Submit</Button>
             </Form>
         )
     }

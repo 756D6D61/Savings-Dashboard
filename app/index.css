@@ -3,3 +3,7 @@
     background-image: linear-gradient(315deg, rgba(230,219,222,1) 10% , rgba(203,232,248,1) 73%);
 }
 
+.test {
+    background-image: url('../app/components/Images/people.svg')
+}
+
