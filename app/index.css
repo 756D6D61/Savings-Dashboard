@@ -6,4 +6,9 @@
 .test {
     background-image: url('../app/components/Images/people.svg')
 }
-
+input.form-control, button.btn.btn-secondary{
+    background-color: white;
+    opacity: 0.5;
+    border: none;
+    color:black
+}
