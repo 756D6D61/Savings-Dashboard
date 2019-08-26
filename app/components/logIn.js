@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Form from './LogIn/form'
-
+import People from './Images/people.svg'
 
 class LogIn extends Component{
     render(){
@@ -8,6 +8,7 @@ class LogIn extends Component{
             <div className="auth">
                 <h1>Log In</h1>
                 <Form />
+                <People />
             </div>
             
         )
@@ -15,3 +16,4 @@ class LogIn extends Component{
 }
 
 export default LogIn;
+ //
