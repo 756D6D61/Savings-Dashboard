@@ -1,11 +1,17 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
+import { Container, Row, Col } from 'reactstrap'
+import { Link } from 'react-router-dom'
 
-class CardDetails extends Component{
+class Accounts extends Component{
     render(){
         return(
-            <div>card details</div>
+            <Container>
+                <Row>
+                    <Col><Link to="ViewAccount"><div className="cardHome1"></div></Link></Col>
+                </Row>
+            </Container>
         )
     }
 }
 
-export default CardDetails;
+export default Accounts;

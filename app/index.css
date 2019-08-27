@@ -73,3 +73,10 @@ border-radius: 20px;
 .home {
     background: #E6E6E6;
 }
+
+.cardDetails {
+    border-radius: 20px;
+      background: #b2b2b2;
+      width: 250px;
+      height: 400px; 
+}

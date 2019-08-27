@@ -2,13 +2,16 @@ import React, { Component } from 'react';
 import { Container, Row, Col } from 'reactstrap'
 import AccDets from './ViewAccount/accountDetails'
 import CardDets from './ViewAccount/cardDetails'
-import Table from './ViewAccount/table'
-import Chart from'./ViewAccount/chart'
+import Chart from './Home/chart'
+import Table from './Home/table'
+import Menu from './Home/menu'
 
 class ViewAccount extends Component{
     render(){
         return(
+            <div className="home">
             <Container>
+                 <Row><Menu/></Row>
                 <Row>
                     <Col>
                         <Row><CardDets /></Row>
@@ -20,7 +23,7 @@ class ViewAccount extends Component{
                     </Col>
                 </Row>
             </Container>
-            
+            </div>  
         )
     }
 }
