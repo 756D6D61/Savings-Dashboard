@@ -33,3 +33,11 @@ input.form-control, button.btn.btn-secondary{
 label {
     color: gray;
 }
+
+.menu {
+    display: block;
+    width: 100%;
+    height: 20px;
+    background-image: linear-gradient(315deg, rgba(230,219,222,1) 10% , rgba(203,232,248,1) 73%);
+
+}
