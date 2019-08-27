@@ -1,11 +1,16 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
+import { Container, Row, Col } from 'reactstrap'
 
-class AccountDetails extends Component{
+class Accounts extends Component{
     render(){
         return(
-            <div className="cardDetails">acc details</div>
+            <Container>
+                <Row>
+                    <Col><div className="cardHome1"></div></Col>
+                </Row>
+            </Container>
         )
     }
 }
 
-export default AccountDetails;
+export default Accounts;
