@@ -45,3 +45,31 @@ label {
     background-color: #F0F0F0;
     width: 100%;
 }
+
+.cardHome1 {
+border-radius: 20px;
+  background: #EAD3D3;
+  width: 250px;
+  height: 175px; 
+  box-shadow: 30px 30px 50px #a8a8a8;
+}
+
+.cardHome2 {
+    border-radius: 20px;
+      background: #BDD4E5;
+      width: 250px;
+      height: 175px; 
+      box-shadow: 30px 30px 50px  #a8a8a8;
+}
+
+.cardHome3 {
+    border-radius: 20px;
+      background: #B3E8C5;
+      width: 250px;
+      height: 175px; 
+      box-shadow: 30px 30px 50px  #a8a8a8;
+}
+
+.home {
+    background: #E6E6E6;
+}

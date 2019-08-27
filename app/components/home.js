@@ -8,6 +8,7 @@ import Table from './Home/table'
 class Home extends Component{
     render(){
         return(
+            <div className="home">
             <Container>
                 <Row><Menu/></Row>
                 <Row><Accounts /></Row>
@@ -16,6 +17,7 @@ class Home extends Component{
                     <Col><Table /></Col>
                 </Row>
             </Container>
+            </div>
         )
     }
 }

@@ -6,9 +6,9 @@ class Accounts extends Component{
         return(
             <Container>
                 <Row>
-                    <Col>acc 1</Col>
-                    <Col>acc 2</Col>
-                    <Col>acc 3</Col>
+                    <Col><div className="cardHome1"></div></Col>
+                    <Col><div className="cardHome2"></div></Col>
+                    <Col><div className="cardHome3"></div></Col>
                 </Row>
             </Container>
         )

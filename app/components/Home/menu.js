@@ -3,6 +3,7 @@ import { Container, Col, Row } from 'reactstrap'
 import HomeIcon from '@material-ui/icons/Home'
 import AddBoxIcon from '@material-ui/icons/AddBox'
 import Head from '../Images/head.svg'
+
 class Menu extends Component{
     render(){
         return(
