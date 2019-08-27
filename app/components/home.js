@@ -13,8 +13,8 @@ class Home extends Component{
                 <Row><Menu/></Row>
                 <Row><Accounts /></Row>
                 <Row>
-                    <Col><Chart /></Col>
-                    <Col><Table /></Col>
+                    <Col md={6}><Chart /></Col>
+                    <Col md={6}><Table /></Col>
                 </Row>
             </Container>
             </div>
