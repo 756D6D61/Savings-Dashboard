@@ -8,7 +8,7 @@ class LogIn extends Component{
         return(
             <div className="auth">
                 <Container>
-                        <h1>Log In</h1>
+                        <h1 className="logIn">Log In</h1>
                         <hr />
                         <Row>
                         <Col md={2}></Col>

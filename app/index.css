@@ -23,5 +23,13 @@ input.form-control, button.btn.btn-secondary{
 .form {
     margin-top:200px;
     margin-bottom:-250px;
-    
+}
+
+.logIn {
+    font-size: 70px;
+    color: gray;
+}
+
+label {
+    color: gray;
 }
