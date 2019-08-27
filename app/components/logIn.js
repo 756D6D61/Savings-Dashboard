@@ -7,8 +7,10 @@ class LogIn extends Component{
         return(
             <div className="auth">
                 <h1>Log In</h1>
-                <Form />
-                <People />
+                    <Form />
+                <div className="image">
+                    <People />
+                </div>
             </div>
             
         )

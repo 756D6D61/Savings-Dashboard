@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { Form, Label, FormGroup, Input } from 'reactstrap'
+import { Form, Label, FormGroup, Button, Input } from 'reactstrap'
+import { Link } from 'react-router-dom'
 
 class SignUpForm extends Component{
     render(){
@@ -13,6 +14,9 @@ class SignUpForm extends Component{
                     <Label>Password</Label>
                     <Input />
                 </FormGroup>
+                <Link to="Home">
+                <Button>Submit</Button>
+                </Link>
             </Form>
         )
     }
