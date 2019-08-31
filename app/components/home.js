@@ -4,7 +4,16 @@ import Accounts from './Home/accounts'
 import Chart from './Home/chart'
 import Menu from './Home/menu'
 import Table from './Home/table'
+import { connect } from 'react-redux';
+import { simpleAction } from '../actions/simpleAction';
 
+const mapStateToProps = state => ({
+    ...state
+   })
+
+const mapDispatchToProps = dispatch => ({
+    simpleAction: () => dispatch(simpleAction())
+})
 class Home extends Component{
     render(){
         return(
@@ -22,7 +31,7 @@ class Home extends Component{
     }
 }
 
-export default Home;
+export default connect(mapStateToProps, mapDispatchToProps)(Home);
 /*
  <Row><Accounts /></Row>
                 <Row>
