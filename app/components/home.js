@@ -18,14 +18,16 @@ class Home extends Component{
     render(){
         return(
             <div className="home">
-            <Container>
                 <Row><Menu/></Row>
-                <Row><Accounts /></Row>
-                <Row>
-                    <Col md={6}><Chart /></Col>
-                    <Col md={6}><Table /></Col>
-                </Row>
-            </Container>
+                <Container>
+                    <Row>
+                        <Accounts />
+                    </Row>
+                    <Row>
+                        <Col md={6}><Chart /></Col>
+                        <Col md={6}><Table /></Col>
+                    </Row>
+                </Container>
             </div>
         )
     }
