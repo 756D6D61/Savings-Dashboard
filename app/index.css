@@ -49,12 +49,23 @@ label {
     width: 100%;
 }
 
-.cardHome1 {
-border-radius: 20px;
+.cardHome1, .card-details {
+  border-radius: 20px;
   background: #EAD3D3;
   width: 250px;
   height: 175px; 
   box-shadow: 30px 30px 50px #a8a8a8;
+}
+
+.account-details {
+    border-radius: 20px;
+    background: rgb(68, 68, 68);
+    width: 250px;
+    height: 350px; 
+}
+
+.space {
+    padding:40px;
 }
 
 .cardHome2 {
@@ -77,6 +88,7 @@ border-radius: 20px;
     background: #E6E6E6;
     height: 100vh;
     width: 100vw;
+    overflow: hidden;
 }
 
 .cardDetails {

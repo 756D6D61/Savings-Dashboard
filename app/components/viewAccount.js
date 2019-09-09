@@ -10,8 +10,10 @@ class ViewAccount extends Component{
     render(){
         return(
             <div className="home">
-            <Container>
-                 <Row><Menu/></Row>
+                 <Row>
+                    <Menu/>
+                </Row>
+                <Container>
                 <Row>
                     <Col>
                         <Row><CardDets /></Row>
