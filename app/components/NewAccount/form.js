@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Form, Label, FormGroup, Input } from 'reactstrap'
+import { Form, Label, FormGroup, Input, Button } from 'reactstrap'
 
 class NewAccForm extends Component{
     render(){
@@ -20,6 +20,9 @@ class NewAccForm extends Component{
                 <FormGroup>
                     <Label>Savings Goal </Label>
                     <Input />
+                </FormGroup>
+                <FormGroup>
+                    <Button>Submit</Button>
                 </FormGroup>
             </Form>
         )

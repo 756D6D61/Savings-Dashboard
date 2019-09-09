@@ -6,7 +6,11 @@ class AccountDetails extends Component{
         return(
             <Container>
                 <Row>
-                    <Col><div className="cardHome1"></div></Col>
+                    <Col>
+                        <div className="space">
+                            <div className="cardHome1"></div>
+                        </div>
+                    </Col>
                 </Row>
             </Container>
         )

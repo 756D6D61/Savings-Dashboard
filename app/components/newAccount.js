@@ -8,11 +8,13 @@ class NewAccount extends Component{
     render(){
         return(
             <div className="home">
-            <Container>
                 <Row><Menu/></Row>
+                <Container>
                 <Row>
-                    <Col><Card /></Col>
-                    <Col><Form /></Col>
+                    <Col md={1}></Col>
+                    <Col md={4}><Card /></Col>
+                    <Col md={6}><Form /></Col>
+                    <Col md={1}></Col>
                 </Row>
             </Container>
             </div>
