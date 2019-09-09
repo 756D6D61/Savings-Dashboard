@@ -7,18 +7,18 @@ class LogIn extends Component{
     render(){
         return(
             <div className="auth">
-                <Container>
                         <h1 className="logIn">Log In</h1>
                         <hr />
                         <Row>
                         <Col md={2}></Col>
-                        <Col md={8}><Form /></Col>
+                        <Col md={8}><Form />      
+                        <br />
+                        </Col>
                         <Col md={2}></Col>
                         </Row>
                         <div className="image">
-                            <People />
+                            <People width="110vw"/>
                         </div>
-                </Container>
             </div>
             
         )
@@ -26,4 +26,3 @@ class LogIn extends Component{
 }
 
 export default LogIn;
- //

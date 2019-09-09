@@ -1,27 +1,25 @@
 import React, { Component } from 'react';
-import { Col, Form, Label, FormGroup, Button, Input } from 'reactstrap'
+import { Form, Label, FormGroup, Button, Input } from 'reactstrap'
 import { Link } from 'react-router-dom'
 
-class LogInForm extends Component{
+class SignUpForm extends Component{
     render(){
         return(
-            <div className="form">
-                <Form>
-                    <FormGroup row>
-                        <Label md={2}>Username</Label>
-                        <Col md={10}><Input /></Col>
-                    </FormGroup>
-                    <FormGroup row>
-                        <Label md={2}>Password</Label>
-                        <Col md={10}><Input /></Col>
-                    </FormGroup>
-                    <Link to="SignUp">
-                    <Button>Submit</Button>
-                    </Link>
-                </Form>
-            </div>
+            <Form>
+                <FormGroup>
+                    <Label>Username</Label>
+                    <Input />
+                </FormGroup>
+                <FormGroup>
+                    <Label>Password</Label>
+                    <Input />
+                </FormGroup>
+                <Link to="SignUp">
+                <Button>Submit</Button>
+                </Link>
+            </Form>
         )
     }
 }
 
-export default LogInForm;
+export default SignUpForm;

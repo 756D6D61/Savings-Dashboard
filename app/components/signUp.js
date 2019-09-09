@@ -23,7 +23,6 @@ class SignUp extends Component{
           } = this.props;
         return(
             <div className="auth">
-                <Container>
                         <h1 className="logIn">Sign Up</h1>
                         <hr />
                         <Row>
@@ -35,11 +34,8 @@ class SignUp extends Component{
                         <Col md={2}></Col>
                         </Row>
                         <div className="image">
-                            <People />
+                            <People width="110vw"/>
                         </div>
-                        
-      
-                </Container>
             </div>
             
         )
