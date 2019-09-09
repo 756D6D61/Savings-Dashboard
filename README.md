@@ -3,11 +3,11 @@ The main aim of this dashboard is to allow the user to input details about their
 
 ### 📋Aims of the App 
 
-* In this dashboard the user can add an account; input the amount of interest earned within that account (if possible) and how much they are putting into the account on a weekly/monthly/yearly basis. 
+* In this dashboard the user can add an account; input the amount of interest earned within that account (if possible) and how much they are putting into the account on a weekly/monthly/yearly basis
 
-* The user can see an overview of their savings from all of their accounts on the dashboard home page. 
+* The user can see an overview of their savings from all of their accounts on the dashboard home page
 
-* Authentication has been implemented into the dashboard to ensure the user's details are secure. 
+* Authentication has been implemented into the dashboard to ensure the user's details are secure
 
 ### 👩‍💻Technical Details 
 * This dashboard UI was built using Webpack, ReactJS and Babel on the front-end
