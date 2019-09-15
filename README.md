@@ -16,6 +16,9 @@ The main aim of this dashboard is to allow the user to input details about their
 
 * Jest/Enzyme/Cypress are libraries that have been used to test the front-end
 
+### 🔧How to Run the App
+* npm run start 
+
 ### 💭Additional Features to Be Implemented 
 * Add additional savings to indivdual accounts 
 * Delete accounts/ different inputs about account 
