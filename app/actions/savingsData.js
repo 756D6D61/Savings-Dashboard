@@ -1,7 +1,7 @@
 import axios from 'axios'
 import { GET_DATA, SAVE_DATA } from './constants'
 
-const URL = 'https://o39ren2sp5.execute-api.us-west-1.amazonaws.com/latest/api/contacts'
+const URL = 'https://9tm51w73ze.execute-api.eu-central-1.amazonaws.com/latest/api/savings'
 
 export const get_data = (payload) => {
     return {
