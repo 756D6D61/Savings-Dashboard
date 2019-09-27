@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_4" x="-17" y="-25" width="1973" height="1137" filterUnits="userSpaceOnUse">
+      <feOffset dx="10" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.177" y1="0.155" x2="0.863" y2="0.896" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ff0a"/>
+      <stop offset="1" stop-color="#2faa02"/>
+    </linearGradient>
+    <filter id="Ellipse_3" x="1820" y="966" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.177" y1="0.155" x2="0.863" y2="0.896" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffeb00"/>
+      <stop offset="1" stop-color="#aa7002"/>
+    </linearGradient>
+    <filter id="Ellipse_3-2" x="422" y="215" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-3" x="422" y="468" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-4" x="422" y="468" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-5" x="422" y="721" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3-6" x="422" y="974" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_12">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_12" data-name="Web 1920 – 12" clip-path="url(#clip-Web_1920_12)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_4)">
+      <rect id="Rectangle_4-2" data-name="Rectangle 4" width="1883" height="1047" rx="41" transform="translate(18 17)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="1821" height="897" rx="41" transform="translate(80 167)" fill="#f7f7f7"/>
+    <rect id="Rectangle_51" data-name="Rectangle 51" width="1117" height="80" transform="translate(80 984)" fill="#f7f7f7"/>
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="174" height="897" transform="translate(529 167)" fill="#e7e7e7"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="174" height="745" transform="translate(1727 167)" fill="#e7e7e7"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="1372" height="897" rx="41" transform="translate(529 167)" fill="#eaeaea"/>
+    <rect id="Rectangle_49" data-name="Rectangle 49" width="632" height="662" rx="41" transform="translate(1239 333)" fill="rgba(95,114,64,0.15)"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="322" height="897" transform="translate(513 167)" fill="#eaeaea"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(809 889)">
+      <g transform="matrix(1, 0, 0, 1, -809, -889)" filter="url(#Ellipse_3)">
+        <circle id="Ellipse_3-7" data-name="Ellipse 3" cx="24" cy="24" r="24" transform="translate(1823 973)" fill="url(#linear-gradient)"/>
+      </g>
+      <text id="_" data-name="+" transform="translate(1026 119)" fill="#fff" font-size="40" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">+</tspan></text>
+    </g>
+    <rect id="Rectangle_31" data-name="Rectangle 31" width="376" height="206" rx="41" transform="translate(105 201)" fill="#fff"/>
+    <g id="Group_3" data-name="Group 3" transform="translate(-127 -81)">
+      <g id="Group_2" data-name="Group 2" transform="translate(-439 185)">
+        <g transform="matrix(1, 0, 0, 1, 566, -104)" filter="url(#Ellipse_3-2)">
+          <circle id="Ellipse_3-8" data-name="Ellipse 3" cx="24" cy="24" r="24" transform="translate(425 222)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <path id="ic_edit_24px" d="M3,18.4v4.051H7.051L19,10.5,14.949,6.447ZM22.133,7.365a1.076,1.076,0,0,0,0-1.523L19.605,3.314a1.076,1.076,0,0,0-1.523,0L16.1,5.291l4.051,4.051,1.977-1.977Z" transform="translate(564 315.002)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="376" height="206" rx="41" transform="translate(105 454)" fill="#fff"/>
+    <g id="Group_4" data-name="Group 4" transform="translate(-127 172)">
+      <g id="Group_2-2" data-name="Group 2" transform="translate(-439 185)">
+        <g transform="matrix(1, 0, 0, 1, 566, -357)" filter="url(#Ellipse_3-3)">
+          <circle id="Ellipse_3-9" data-name="Ellipse 3" cx="24" cy="24" r="24" transform="translate(425 475)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <path id="ic_edit_24px-2" data-name="ic_edit_24px" d="M3,18.4v4.051H7.051L19,10.5,14.949,6.447ZM22.133,7.365a1.076,1.076,0,0,0,0-1.523L19.605,3.314a1.076,1.076,0,0,0-1.523,0L16.1,5.291l4.051,4.051,1.977-1.977Z" transform="translate(564 315.002)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="376" height="206" rx="41" transform="translate(105 454)" fill="#fff"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(-127 172)">
+      <g id="Group_2-3" data-name="Group 2" transform="translate(-439 185)">
+        <g transform="matrix(1, 0, 0, 1, 566, -357)" filter="url(#Ellipse_3-4)">
+          <circle id="Ellipse_3-10" data-name="Ellipse 3" cx="24" cy="24" r="24" transform="translate(425 475)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <path id="ic_edit_24px-3" data-name="ic_edit_24px" d="M3,18.4v4.051H7.051L19,10.5,14.949,6.447ZM22.133,7.365a1.076,1.076,0,0,0,0-1.523L19.605,3.314a1.076,1.076,0,0,0-1.523,0L16.1,5.291l4.051,4.051,1.977-1.977Z" transform="translate(564 315.002)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="376" height="206" rx="41" transform="translate(105 707)" fill="#fff"/>
+    <g id="Group_6" data-name="Group 6" transform="translate(-127 425)">
+      <g id="Group_2-4" data-name="Group 2" transform="translate(-439 185)">
+        <g transform="matrix(1, 0, 0, 1, 566, -610)" filter="url(#Ellipse_3-5)">
+          <circle id="Ellipse_3-11" data-name="Ellipse 3" cx="24" cy="24" r="24" transform="translate(425 728)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <path id="ic_edit_24px-4" data-name="ic_edit_24px" d="M3,18.4v4.051H7.051L19,10.5,14.949,6.447ZM22.133,7.365a1.076,1.076,0,0,0,0-1.523L19.605,3.314a1.076,1.076,0,0,0-1.523,0L16.1,5.291l4.051,4.051,1.977-1.977Z" transform="translate(564 315.002)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="376" height="104" rx="41" transform="translate(105 960)" fill="#fff"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(-127 678)">
+      <g id="Group_2-5" data-name="Group 2" transform="translate(-439 185)">
+        <g transform="matrix(1, 0, 0, 1, 566, -863)" filter="url(#Ellipse_3-6)">
+          <circle id="Ellipse_3-12" data-name="Ellipse 3" cx="24" cy="24" r="24" transform="translate(425 981)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <path id="ic_edit_24px-5" data-name="ic_edit_24px" d="M3,18.4v4.051H7.051L19,10.5,14.949,6.447ZM22.133,7.365a1.076,1.076,0,0,0,0-1.523L19.605,3.314a1.076,1.076,0,0,0-1.523,0L16.1,5.291l4.051,4.051,1.977-1.977Z" transform="translate(564 315.002)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="376" height="28" transform="translate(105 1036)" fill="#fff"/>
+    <rect id="Rectangle_50" data-name="Rectangle 50" width="632" height="662" rx="41" transform="translate(558 333)" fill="rgba(95,114,64,0.15)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="43" cy="43" r="43" transform="translate(1613 52)" fill="#adadad"/>
+    <text id="User_Name" data-name="User Name" transform="translate(1725 103)" fill="#adadad" font-size="27" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">User Name</tspan></text>
+    <path id="ic_home_24px" d="M21.539,44.521V29.866h9.77V44.521H43.521V24.982h7.327L26.424,3,2,24.982H9.327V44.521Z" transform="translate(133 71)" fill="#adadad"/>
+    <path id="ic_library_add_24px" d="M5.763,9.525H2V35.863a3.774,3.774,0,0,0,3.763,3.763H32.1V35.863H5.763ZM35.863,2H13.288A3.774,3.774,0,0,0,9.525,5.763V28.338A3.774,3.774,0,0,0,13.288,32.1H35.863a3.774,3.774,0,0,0,3.763-3.763V5.763A3.774,3.774,0,0,0,35.863,2ZM33.982,18.931H26.457v7.525H22.694V18.931H15.169V15.169h7.525V7.644h3.763v7.525h7.525Z" transform="translate(307 75)" fill="#adadad"/>
+    <text id="Accounts" transform="translate(359 108)" fill="#5202fa" font-size="32" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Accounts</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="195" transform="translate(309.5 123.5)" fill="none" stroke="#5202fa" stroke-width="5"/>
+    <g id="Column_Chart0" data-name="Column Chart0" transform="translate(-5953 710)">
+      <g id="Chart" transform="translate(6528 -329)">
+        <g id="m1">
+          <rect id="Rectangle_56" data-name="Rectangle 56" width="25.665" height="120.452" rx="12.833" transform="translate(0 452.994)" fill="#5202fa"/>
+          <rect id="Rectangle_57" data-name="Rectangle 57" width="25.665" height="321.205" rx="12.833" transform="translate(51.33 252.241)" fill="#5202fa"/>
+          <rect id="Rectangle_58" data-name="Rectangle 58" width="25.665" height="281.054" rx="12.833" transform="translate(103.913 292.392)" fill="#5202fa"/>
+          <rect id="Rectangle_59" data-name="Rectangle 59" width="25.665" height="120.452" rx="12.833" transform="translate(155.869 452.994)" fill="#5202fa"/>
+          <rect id="Rectangle_60" data-name="Rectangle 60" width="25.665" height="264.994" rx="12.833" transform="translate(207.826 308.452)" fill="#5202fa"/>
+          <rect id="Rectangle_61" data-name="Rectangle 61" width="25.665" height="441.657" rx="12.833" transform="translate(259.782 131.789)" fill="#5202fa"/>
+          <rect id="Rectangle_62" data-name="Rectangle 62" width="25.665" height="240.904" rx="12.833" transform="translate(311.739 332.542)" fill="#5202fa"/>
+          <rect id="Rectangle_63" data-name="Rectangle 63" width="25.665" height="361.356" rx="12.833" transform="translate(363.695 212.09)" fill="#5202fa"/>
+          <rect id="Rectangle_64" data-name="Rectangle 64" width="25.665" height="481.808" rx="12.833" transform="translate(415.652 91.638)" fill="#5202fa"/>
+          <rect id="Rectangle_65" data-name="Rectangle 65" width="25.665" height="441.657" rx="12.833" transform="translate(467.608 131.789)" fill="#5202fa"/>
+          <rect id="Rectangle_66" data-name="Rectangle 66" width="25.665" height="353.326" rx="12.833" transform="translate(520.191 220.12)" fill="#5202fa"/>
+          <rect id="Rectangle_67" data-name="Rectangle 67" width="25.665" height="573.446" rx="12.833" transform="translate(571.521)" fill="#5202fa"/>
+        </g>
+      </g>
+      <g id="X_Axis" data-name="X Axis" transform="translate(6531.492 250.05)">
+        <text id="Jan" transform="translate(9 10)" fill="#5202fa" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-9.477" y="0">Jan</tspan></text>
+        <text id="Feb" transform="translate(60.33 10)" fill="#5202fa" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-9.778" y="0">Feb</tspan></text>
+        <text id="Mar" transform="translate(112.911 9)" fill="#5202fa" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-8.892" y="0">Mar</tspan></text>
+        <text id="Apr" transform="translate(164.805 9)" fill="#5202fa" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-8.611" y="0">Apr</tspan></text>
+        <text id="May" transform="translate(216.885 10)" fill="#5202fa" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.699" y="0">May</tspan></text>
+        <text id="Jun" transform="translate(268.777 10)" fill="#5202fa" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-9.778" y="0">Jun</tspan></text>
+        <text id="Jul" transform="translate(320.596 10)" fill="#5202fa" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-7.947" y="0">Jul</tspan></text>
+        <text id="Aug" transform="translate(372.757 10)" fill="#5202fa" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.691" y="0">Aug</tspan></text>
+        <text id="Sep" transform="translate(424.715 10)" fill="#5202fa" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.087" y="0">Sep</tspan></text>
+        <text id="Oct" transform="translate(476.523 9)" fill="#5202fa" font-size="10" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-8.335" y="0">Oct</tspan></text>
+        <text id="Nov" transform="translate(529.257 10)" fill="#5202fa" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.39" y="0">Nov</tspan></text>
+        <text id="Dec" transform="translate(580.587 10)" fill="#5202fa" font-size="11" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-10.09" y="0">Dec</tspan></text>
+      </g>
+    </g>
+    <text id="HSBC_Super_Saver" data-name="HSBC Super Saver" transform="translate(144 256)" fill="#5202fa" font-size="27" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">HSBC Super Saver</tspan></text>
+    <text id="RBS_Savings" data-name="RBS Savings" transform="translate(144 509)" fill="#5202fa" font-size="27" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">RBS Savings</tspan></text>
+    <text id="Santander_Saver" data-name="Santander Saver" transform="translate(144 762)" fill="#5202fa" font-size="27" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Santander Saver</tspan></text>
+    <text id="ISA_Cash" data-name="ISA Cash" transform="translate(144 1015)" fill="#5202fa" font-size="27" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">ISA Cash</tspan></text>
+    <text id="Goal_" data-name="Goal " transform="translate(167 323)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-31.906" y="0">Goal </tspan></text>
+    <text id="Category" transform="translate(135 365)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">Category</tspan></text>
+    <text id="_10_203" data-name="£10,203" transform="translate(421 323)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-50.596" y="0">£10,203</tspan></text>
+    <text id="General" transform="translate(467 365)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-93.38" y="0">General</tspan></text>
+    <text id="Goal_2" data-name="Goal " transform="translate(167 576)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-31.906" y="0">Goal </tspan></text>
+    <text id="Category-2" data-name="Category" transform="translate(135 618)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">Category</tspan></text>
+    <text id="_1_101" data-name="£1,101" transform="translate(421 576)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-42.812" y="0">£1,101</tspan></text>
+    <text id="Birthday" transform="translate(467 618)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-99.568" y="0">Birthday</tspan></text>
+    <text id="Goal_3" data-name="Goal " transform="translate(167 829)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-31.906" y="0">Goal </tspan></text>
+    <text id="Category-3" data-name="Category" transform="translate(135 871)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">Category</tspan></text>
+    <text id="_3_763" data-name="£3,763" transform="translate(421 829)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-42.812" y="0">£3,763</tspan></text>
+    <text id="Holiday" transform="translate(467 871)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-89.208" y="0">Holiday</tspan></text>
+    <text id="HSBC_Super_Saver-2" data-name="HSBC Super Saver" transform="translate(144 256)" fill="#5202fa" font-size="27" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">HSBC Super Saver</tspan></text>
+    <text id="HSBC_Super_Saver-3" data-name="HSBC Super Saver" transform="translate(558 265)" fill="#5202fa" font-size="50" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">HSBC Super Saver</tspan></text>
+    <text id="General-2" data-name="General" transform="translate(1089 265)" fill="#5202fa" font-size="50" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">General</tspan></text>
+    <text id="_10_203-2" data-name="£10,203" transform="translate(1416 265)" fill="#5202fa" font-size="50" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">£10,203</tspan></text>
+    <text id="_0.05_" data-name="0.05%" transform="translate(1719 265)" fill="#5202fa" font-size="50" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">0.05%</tspan></text>
+    <rect id="Rectangle_87" data-name="Rectangle 87" width="563" height="82" rx="20" transform="translate(1283 375)" fill="#fff"/>
+    <rect id="Rectangle_88" data-name="Rectangle 88" width="563" height="82" rx="20" transform="translate(1284 497)" fill="#fff"/>
+    <rect id="Rectangle_89" data-name="Rectangle 89" width="563" height="82" rx="20" transform="translate(1283 619)" fill="#fff"/>
+    <rect id="Rectangle_90" data-name="Rectangle 90" width="563" height="82" rx="20" transform="translate(1283 741)" fill="#fff"/>
+    <rect id="Rectangle_91" data-name="Rectangle 91" width="563" height="82" rx="20" transform="translate(1283 863)" fill="#fff"/>
+    <text id="January" transform="translate(1356 427)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-47.46" y="0">January</tspan></text>
+    <text id="February" transform="translate(1362 549)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-52.906" y="0">February</tspan></text>
+    <text id="March" transform="translate(1309 672)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">March</tspan></text>
+    <text id="April" transform="translate(1309 793)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">April</tspan></text>
+    <text id="May-2" data-name="May" transform="translate(1309 915)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">May</tspan></text>
+    <text id="_3_102" data-name="£3,102" transform="translate(1819 427)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-85.624" y="0">£3,102</tspan></text>
+    <text id="_8_001" data-name="£8,001" transform="translate(1819 549)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-85.624" y="0">£8,001</tspan></text>
+    <text id="_1_050" data-name="£1,050" transform="translate(1819 671)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-85.624" y="0">£1,050</tspan></text>
+    <text id="_1_100" data-name="£1,100" transform="translate(1819 793)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-85.624" y="0">£1,100</tspan></text>
+    <text id="_2_202" data-name="£2,202" transform="translate(1814 916)" fill="#5202fa" font-size="28" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-85.624" y="0">£2,202</tspan></text>
+    <line id="Line_5" data-name="Line 5" x2="1303" transform="translate(558.5 296.5)" fill="none" stroke="#5202fa" stroke-width="2"/>
+  </g>
+</svg>
