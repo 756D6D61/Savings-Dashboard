@@ -17,10 +17,11 @@ class NewHome extends Component{
                 </Col>
                 <Col md={10}>
                     <Row>
+                        <Col md={12}>
+                        welcome
+                        </Col>
                         <Col md={4}>
-                            <Row>
-                                welcome
-                            </Row>
+                            
                             <Row>
                                 <AddMoney />
                             </Row>
