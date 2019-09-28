@@ -36,9 +36,11 @@ const Links = styled.div`
 const Home = styled.p`
     text-decoration: none;
     border-bottom: 8px solid white;
+    font-weight:200;
 `
 const Account = styled.p`
     margin-top: -2vh;
+    font-weight:200;
 `
 const AccountLink = styled.p`
     margin-top: -4.5vh;
