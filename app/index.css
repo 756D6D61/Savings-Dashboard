@@ -10,13 +10,44 @@
 .test {
     background-image: url('../app/components/Images/people.svg')
 }
-input.form-control, button.btn.btn-secondary{
+input.form-control, button.btn.btn-secondary, button.dropdown-toggle.btn.btn-secondary{
     background-color: white;
-    opacity: 0.5;
     border: none;
-    color:black
+    width: 19vw;
+    height:6vh;
+    background:#FFF;
+    color:#5202FA;
+    border-radius:10px;
 }
 
+div.dropdown-menu.show, button.dropdown-item {
+    background-color: white;
+    height:6vh;
+    border: none;
+    background:#FFF;
+    color:#5202FA;
+}
+input.form-control{
+    background-color: white;
+    border: none;
+    width: 19vw;
+    height:6vh;
+    background:#FFF;
+    color:#5202FA;
+    border-radius:10px;
+    font-weight:200;
+    text-align: center;
+}
+input.form-control::placeholder {
+    color: #5202FA;  
+    font-weight:200;
+  }
+
+button.add.btn.btn-secondary{
+    width:7vw;
+    font-weight:600;
+    margin-left:30%;
+}
 .image {
     z-index: 1;
     margin-top:-10px;
