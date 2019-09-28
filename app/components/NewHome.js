@@ -8,10 +8,18 @@ import MonthlySavings from './NewHome/MonthlySavings'
 import OneLine from './NewHome/OneLine'
 import Welcome from './NewHome/Welcome'
 import styled from 'styled-components'
+import Add from './Images/add.svg'
+import { Link } from 'react-router-dom'
 
 const Home = styled.div`
     height: 100vh;
     width: 100%;
+`
+const AddIcon = styled.div`
+    z-index:999;
+    margin-left:95%;
+    margin-top:-4.5%;
+    position: static; 
 `
 
 class NewHome extends Component{
@@ -52,7 +60,11 @@ class NewHome extends Component{
                         </Col>
                     </Row>
                 </Col>
+                <AddIcon>
+                    <Link to="/AddAccounts"><Add /></Link>
+                </AddIcon>
                 </Row>
+                
             </Home>
         )
     }
