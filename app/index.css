@@ -48,10 +48,15 @@ button.add.btn.btn-secondary{
     font-weight:600;
     margin-left:30%;
 }
+
 .image {
     z-index: 1;
     margin-top:-10px;
     margin-left:-10%;
+}
+
+button.category.btn.btn-secondary {
+    font-weight:200;
 }
 
 .form {

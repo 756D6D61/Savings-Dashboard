@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Row, Col } from 'reactstrap'
+import { Button } from 'reactstrap'
 import styled from 'styled-components'
 
 const Content = styled.div`
@@ -11,12 +11,24 @@ const Content = styled.div`
     padding: 5px;
     margin-top:20px;
 `
-
+const Title = styled.p`
+    font-family: Helvetica Neue;
+    font-size: 30px;
+    text-align:center;
+    font-weight:500;
+`
+const ButtonStyle = styled.div`
+    margin-bottom:20px;
+`
 class Categories extends Component{
     render(){
         return(
                 <Content>
-                    Categories
+                    <Title>Categories</Title>
+                    <ButtonStyle><Button className="category">General</Button></ButtonStyle>
+                    <ButtonStyle><Button className="category">Birthday</Button></ButtonStyle>
+                    <ButtonStyle><Button className="category">Holiday</Button></ButtonStyle>
+                    <ButtonStyle><Button className="category">Wedding</Button></ButtonStyle>
                 </Content>
         )
     }
