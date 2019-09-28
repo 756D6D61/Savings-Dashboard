@@ -42,10 +42,10 @@ class NewHome extends Component{
                                 <OneLine />
                             </Row>
                             <Row>
-                                <Col md={6}>
+                                <Col md={8}>
                                     <Graph />
                                 </Col>
-                                <Col md={6}>
+                                <Col md={4}>
                                     <MonthlySavings />
                                 </Col>
                             </Row>
