@@ -10,6 +10,7 @@ import NewAccount from './components/newAccount'
 import ViewAccount from './components/viewAccount'
 import NewHome from './components/NewHome'
 import Accounts from './components/Accounts'
+import AddAccounts from './components/NewAddAccount'
 import { HashRouter as Router, Switch, Route } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import configureStore from './store';
@@ -26,6 +27,7 @@ class App extends React.Component{
                     <Route exact path='/ViewAccount' component={ViewAccount} />
                     <Route exact path='/NewHome' component={NewHome} />
                     <Route exact path='/Accounts' component={Accounts} />
+                    <Route exact path='/AddAccounts' component={AddAccounts} />
                 </Switch>
             </Router>
         )
