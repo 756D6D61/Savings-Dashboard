@@ -6,6 +6,7 @@ import Categories from './NewHome/Categories'
 import Graph from './NewHome/Graph'
 import MonthlySavings from './NewHome/MonthlySavings'
 import OneLine from './NewHome/OneLine'
+import Welcome from './NewHome/Welcome'
 
 class NewHome extends Component{
     render(){
@@ -18,7 +19,7 @@ class NewHome extends Component{
                 <Col md={10}>
                     <Row>
                         <Col md={12}>
-                        welcome
+                            <Welcome />
                         </Col>
                         <Col md={4}>
                             
