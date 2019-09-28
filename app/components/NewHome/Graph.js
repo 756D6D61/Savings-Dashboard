@@ -42,6 +42,15 @@ const data2012 = [
     {quarter: 4, earnings: 12000}
   ];  
 
+  const cornerRadius = 10;
+  class CustomBar extends React.Component {
+    render() {
+      const y0 = this.props.y0 + cornerRadius;
+      const z0 = this.props.z0 - cornerRadius;
+      return <Bar {...this.props} y0={y0} z0={z0} />;
+    }
+  }
+
 class Graph extends Component{
     render(){
         return(
@@ -77,6 +86,7 @@ class Graph extends Component{
                         data={data2015}
                         x="quarter"
                         y="earnings"
+                        cornerRadius={cornerRadius}
                     />
                     </VictoryStack>
                 </VictoryChart>
