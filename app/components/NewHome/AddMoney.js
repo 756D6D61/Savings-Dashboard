@@ -26,6 +26,10 @@ const dropdown = styled.div`
 const Name = styled.a`
     font-weight:300;
 `
+const ContentStyle = styled.div`
+margin-bottom:15px;
+`
+
 class AddMoney extends Component{
     constructor(props) {
         super(props);
@@ -45,6 +49,7 @@ class AddMoney extends Component{
         return(
                 <Money>
                     <Title>Add Money</Title>
+                    <ContentStyle>
                     <Dropdown isOpen={this.state.dropdownOpen} toggle={this.toggle}>
                         <DropdownToggle caret>
                             <Name>Name of Account</Name>
@@ -59,18 +64,21 @@ class AddMoney extends Component{
                         <DropdownItem>Quo Action</DropdownItem>
                         </DropdownMenu>
                     </Dropdown>
-                    <br />
+                    </ContentStyle>
+                    <ContentStyle>
                     <Input
                         type="text"
                         name="amount"
                         placeholder="Amount"
                     />
-                    <br />
+                    </ContentStyle>
+                    <ContentStyle>
                     <Input
                         type="date"
                         name="date"
                         placeholder="date placeholder"
                     />
+                    </ContentStyle>
                     <Button className="add">Add</Button>
                 </Money>
         )
