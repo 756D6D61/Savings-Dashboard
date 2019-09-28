@@ -1,13 +1,27 @@
 import React, { Component } from 'react'
+import { Row, Col } from 'reactstrap'
+import styled from 'styled-components'
+
+const Menu = styled.div`
+    height: 45vh;
+    width: 20vw;
+    background:#F7F7F7;
+    color:#5202FA;
+    border-radius:20px;
+    padding: 5px;
+    margin-top:20px;
+`
 
 class Categories extends Component{
     render(){
         return(
             <div>
-                categories
+                <Menu>
+                    hello
+                </Menu>
             </div>
         )
     }
 }
 
-export default Categories 
+export default Categories
