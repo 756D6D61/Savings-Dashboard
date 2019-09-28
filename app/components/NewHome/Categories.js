@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Row, Col } from 'reactstrap'
 import styled from 'styled-components'
 
-const Menu = styled.div`
+const Content = styled.div`
     height: 45vh;
     width: 20vw;
     background:#F7F7F7;
@@ -15,11 +15,9 @@ const Menu = styled.div`
 class Categories extends Component{
     render(){
         return(
-            <div>
-                <Menu>
-                    hello
-                </Menu>
-            </div>
+                <Content>
+                    Categories
+                </Content>
         )
     }
 }

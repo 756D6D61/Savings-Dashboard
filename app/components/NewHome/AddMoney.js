@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Row, Col } from 'reactstrap'
 import styled from 'styled-components'
 
-const Menu = styled.div`
+const Money = styled.div`
     height: 40vh;
     width: 20vw;
     background:#F7F7F7;
@@ -14,11 +14,9 @@ const Menu = styled.div`
 class AddMoney extends Component{
     render(){
         return(
-            <div>
-                <Menu>
+                <Money>
                     Add Money
-                </Menu>
-            </div>
+                </Money>
         )
     }
 }

@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Row, Col } from 'reactstrap'
+import { Row, Col, Container } from 'reactstrap'
 import SideMenu from './NewHome/SideMenu'
 import AddMoney from './NewHome/AddMoney'
 import Categories from './NewHome/Categories'
@@ -7,11 +7,17 @@ import Graph from './NewHome/Graph'
 import MonthlySavings from './NewHome/MonthlySavings'
 import OneLine from './NewHome/OneLine'
 import Welcome from './NewHome/Welcome'
+import styled from 'styled-components'
+
+const Home = styled.div`
+    height: 100vh;
+    width: 100%;
+`
 
 class NewHome extends Component{
     render(){
         return(
-            <div>
+            <Home>
                 <Row>
                 <Col md={2}>
                     <SideMenu />
@@ -21,8 +27,9 @@ class NewHome extends Component{
                         <Col md={12}>
                             <Welcome />
                         </Col>
-                        <Col md={4}>
-                            
+                    </Row>
+                    <Row>
+                        <Col md={3}>
                             <Row>
                                 <AddMoney />
                             </Row>
@@ -30,7 +37,7 @@ class NewHome extends Component{
                                 <Categories />
                             </Row>
                         </Col>
-                        <Col md={8}>
+                        <Col md={9}>
                             <Row>
                                 <OneLine />
                             </Row>
@@ -46,7 +53,7 @@ class NewHome extends Component{
                     </Row>
                 </Col>
                 </Row>
-            </div>
+            </Home>
         )
     }
 }

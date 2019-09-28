@@ -75,7 +75,7 @@ class SideMenu extends Component{
     render(){
         return(
             <Menu>
-                test
+                <br />
                 <Modal isOpen={this.state.modal} toggle={this.toggle} className={this.props.className}>
                 <ModalHeader toggle={this.toggle}>Modal title</ModalHeader>
                 <ModalBody>
