@@ -10,7 +10,7 @@ import OneLine from './NewHome/OneLine'
 class NewHome extends Component{
     render(){
         return(
-            <div className="home">
+            <div>
                 <Row>
                 <Col md={2}>
                     <SideMenu />

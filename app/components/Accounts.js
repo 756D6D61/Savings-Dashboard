@@ -6,7 +6,7 @@ import { Row, Col } from 'reactstrap'
 class Accounts extends Component{
     render(){
         return(
-            <div className="home">
+            <div>
                 <Row>
                     <Col>
                         <TopMenu />
