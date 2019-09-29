@@ -7,14 +7,24 @@ const Content = styled.div`
     background:#F7F7F7;
     color:#5202FA;
     border-radius:20px;
-    padding: 5px;
+    font-size:40px;
+`
+const Text = styled.div`
+    color:#5202FA;
+    margin-left:1.5vw;
+    margin-bottom: 5px;
+    padding:5px;
+    font-weight:200;
+`
+const Bold = styled.b`
+    font-weight:600;
 `
 
 class OneLine extends Component{
     render(){
         return(
             <Content>
-                one line
+                <Text>You have saved <Bold>£40,023</Bold> during <Bold>January 2019</Bold></Text>
             </Content>
         )
     }
