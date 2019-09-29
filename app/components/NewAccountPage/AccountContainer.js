@@ -16,35 +16,31 @@ const Left = styled.div`
     background: #F7F7F7;
     border-top-left-radius:20px;
     height: 90vh;
+    width:25vw;
 `
 const Right = styled.div`
     background: #EAEAEA;
-    width:70vw;
+    width:75vw;
     height: 90vh;
-    margin-top: 0;
-    margin-left:-100px;
+    margin-top: -660px;
+    margin-right: -30px;
     z-index:999;
+    float:right;
 `
 
 class AccountContainer extends Component{
     render(){
         return(
             <Account>
-                <Row>
                    
-                    <Col md={4}>
                     <Left>
                         <SideAccounts />
                         </Left>
-                    </Col>
                     
                     <Right>
-                    <Col md={12}>
                         <EditAccountDetails />
                         <ViewAccountDetails />
-                    </Col>
                     </Right>
-                </Row>
             </Account>
         )
     }
