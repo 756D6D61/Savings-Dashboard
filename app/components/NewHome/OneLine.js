@@ -24,7 +24,7 @@ class OneLine extends Component{
     render(){
         return(
             <Content>
-                <Text>You have saved <Bold>£40,023</Bold> during <Bold>January 2019</Bold></Text>
+                <Text>You have saved <Bold>£40,023</Bold> during <Bold><u>January 2019</u></Bold></Text>
             </Content>
         )
     }
