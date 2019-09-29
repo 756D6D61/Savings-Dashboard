@@ -7,7 +7,7 @@ import Menu from './Home/menu'
 class NewAccount extends Component{
     render(){
         return(
-            <div className="home">
+            <div>
                 <Row><Menu/></Row>
                 <Container>
                 <Row>
