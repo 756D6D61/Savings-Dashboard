@@ -17,13 +17,14 @@ const Left = styled.div`
     border-top-left-radius:20px;
     height: 90vh;
     width:25vw;
+    overflow-y: scroll;
 `
 const Right = styled.div`
     background: #EAEAEA;
     width:75vw;
     height: 90vh;
     margin-top: -660px;
-    margin-right: -30px;
+    margin-right: -102px;
     z-index:999;
     float:right;
 `
@@ -34,6 +35,50 @@ class AccountContainer extends Component{
             <Account>
                    
                     <Left>
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
+                        <SideAccounts />
                         <SideAccounts />
                         </Left>
                     
