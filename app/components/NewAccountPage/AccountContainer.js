@@ -39,12 +39,24 @@ const Right = styled.div`
 `
 
 class AccountContainer extends Component{
+    constructor(props) {
+        super(props);
+        this.state = {
+            childVisible: true
+        }
+    }
+   onClick() {
+       this.setState({
+           childVisible: !this.state.childVisible
+       })
+   }
     render(){
         return(
             <Account>
                    
                     <Left>
-                        <SideAccounts />
+                    <button onClick={() => this.onClick()}>test</button>
+                        <SideAccounts onClick={() => this.onClick()}/>
                         <SideAccounts />
                         <SideAccounts />
                         <SideAccounts />
@@ -90,8 +102,13 @@ class AccountContainer extends Component{
                         <SideAccounts />
                         <SideAccounts />
                         </Left>
+                        
                     
                     <Right>
+                    
+                {this.state.childVisible ? (
+                    <ViewAccountDetails />
+                ):null}
                         <EditAccountDetails />
                         <ViewAccountDetails />
                     </Right>
