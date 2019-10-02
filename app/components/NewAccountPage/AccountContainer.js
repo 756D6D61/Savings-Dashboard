@@ -57,48 +57,8 @@ class AccountContainer extends Component{
                     <Left>
                     <button onClick={() => this.onClick()}>test</button>
                         <SideAccounts onClick={() => this.onClick()}/>
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
-                        <SideAccounts />
+                        
+                       
                         <SideAccounts />
                         <SideAccounts />
                         </Left>
