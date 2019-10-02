@@ -49,7 +49,27 @@ const Button = styled.button`
     margin-left:5%
     margin-top:5%;
 `
-
+const Title = styled.p`
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    text-align:center;
+    font-weight:500;
+    margin-top:5px;
+`
+const DetailsLeft = styled.p`
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    text-align:left;
+    font-weight:200;
+    margin-top:-15px;
+`
+const DetailsRight = styled.p`
+    font-family: Helvetica Neue;
+    font-size: 20px;
+    text-align:right;
+    font-weight:200;
+    margin-top:-15px;
+`
 class AccountContainer extends Component{
     constructor(props) {
         super(props);
@@ -65,12 +85,69 @@ class AccountContainer extends Component{
     render(){
         return(
             <Account>
-                   
                     <Left>
-                    <Button onClick={() => this.onClick()}>test 1</Button>
-                    <Button onClick={() => this.onClick()}>test 2</Button>
-                    <Button onClick={() => this.onClick()}>test 3</Button>
-                    <Button onClick={() => this.onClick()}>test 4</Button>
+                    <Button onClick={() => this.onClick()}>
+                        <Row>
+                            <Col>
+                            <Title>HSBC Super Saver</Title></Col>
+                            </Row>
+                            <Row>
+                            <Col md={6}><DetailsLeft>Goal</DetailsLeft></Col>
+                            <Col md={6}><DetailsRight>£10,203</DetailsRight></Col>
+                            </Row>
+                            <Row>
+                            <Col md={6}><DetailsLeft>Category</DetailsLeft></Col>
+                            <Col md={6}><DetailsRight>General</DetailsRight></Col>
+                            </Row>
+                        </Button>
+
+                    <Button onClick={() => this.onClick()}>
+                    <Row>
+                        <Col>
+                        <Title>RBS Savings</Title></Col>
+                        </Row>
+                        <Row>
+                        <Col md={6}><DetailsLeft>Goal</DetailsLeft></Col>
+                        <Col md={6}><DetailsRight>£1,101</DetailsRight></Col>
+                        </Row>
+                        <Row>
+                        <Col md={6}><DetailsLeft>Category</DetailsLeft></Col>
+                        <Col md={6}><DetailsRight>Birthday</DetailsRight></Col>
+                    </Row>
+                    </Button>
+
+                    <Button onClick={() => this.onClick()}>
+                    <Row>
+                        <Col>
+                        <Title>Santander Savings</Title></Col>
+                        </Row>
+                        <Row>
+                        <Col md={6}><DetailsLeft>Goal</DetailsLeft></Col>
+                        <Col md={6}><DetailsRight>£3,763</DetailsRight></Col>
+                        </Row>
+                        <Row>
+                        <Col md={6}><DetailsLeft>Category</DetailsLeft></Col>
+                        <Col md={6}><DetailsRight>Holiday</DetailsRight></Col>
+                        </Row>
+                    </Button>
+
+                    <Button onClick={() => this.onClick()}>
+                    <Row>
+                            <Col>
+                            <Title>ISA Cash</Title></Col>
+                            </Row>
+                            <Row>
+                            <Col md={6}><DetailsLeft>Goal</DetailsLeft></Col>
+                            <Col md={6}><DetailsRight>£20,101</DetailsRight></Col>
+                            </Row>
+                            <Row>
+                            <Col md={6}><DetailsLeft>Category</DetailsLeft></Col>
+                            <Col md={6}><DetailsRight>General</DetailsRight></Col>
+                            </Row>
+                    </Button>
+
+
+
                     <Button onClick={() => this.onClick()}>test 5</Button>
                         <SideAccounts onClick={() => this.onClick()}/>
                     <Button onClick={() => this.onClick()}>test</Button>
