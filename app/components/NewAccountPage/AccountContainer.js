@@ -10,7 +10,7 @@ const Account = styled.div`
     height: 90vh;
     width: 92.90vw;
     margin-left:75px;
-    margin-top:60px
+    margin-top:40px
 `
 const Left = styled.div`
     background: #F7F7F7;
@@ -38,6 +38,18 @@ const Right = styled.div`
     float:right;
 `
 
+const Button = styled.button`
+    width:22vw;
+    height:15vh;
+    color: #5202FA
+    background: white;
+    border: transparent;
+    padding:5px;
+    border-radius:10px;
+    margin-left:5%
+    margin-top:5%;
+`
+
 class AccountContainer extends Component{
     constructor(props) {
         super(props);
@@ -55,9 +67,13 @@ class AccountContainer extends Component{
             <Account>
                    
                     <Left>
-                    <button onClick={() => this.onClick()}>test</button>
+                    <Button onClick={() => this.onClick()}>test 1</Button>
+                    <Button onClick={() => this.onClick()}>test 2</Button>
+                    <Button onClick={() => this.onClick()}>test 3</Button>
+                    <Button onClick={() => this.onClick()}>test 4</Button>
+                    <Button onClick={() => this.onClick()}>test 5</Button>
                         <SideAccounts onClick={() => this.onClick()}/>
-                        
+                    <Button onClick={() => this.onClick()}>test</Button>
                        
                         <SideAccounts />
                         <SideAccounts />

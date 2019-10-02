@@ -42,7 +42,7 @@ class TopMenu extends Component{
                         </StyledLink>
                     </Link>
                 </Col>
-                <Col md={2}><Circle /> User Name</Col>
+                <Col md={2}><Circle /> User</Col>
             </Row>
             </Menu>
         )
