@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 import { Row, Col } from 'reactstrap'
-
+import Graph from './Graph'
 
 const AccInfo = styled.div`
     font-weight:200;
@@ -35,7 +35,7 @@ class ViewAccount extends Component{
                     <HR/>
                 </Col>
                 
-                <Col md={6}>Graph</Col>
+                <Col md={6}><Graph /></Col>
                 <Col md={6}>Monthly savings</Col>
             </Row>
         )
