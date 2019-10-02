@@ -4,7 +4,7 @@ import SideAccounts from './SideAccounts'
 import EditAccountDetails from './EditAccountDetails'
 import ViewAccountDetails from './ViewAccountDetails'
 import styled from 'styled-components'
-
+import Edit from '../Images/edit.svg'
 
 const Account = styled.div`
     height: 90vh;
@@ -39,7 +39,7 @@ const Right = styled.div`
 `
 
 const Button = styled.button`
-    width:22vw;
+    width:20vw;
     height:15vh;
     color: #5202FA
     background: white;
@@ -70,22 +70,35 @@ const DetailsRight = styled.p`
     font-weight:200;
     margin-top:-15px;
 `
+
+const EditIcon = styled.p`
+    margin-left:310px;
+    margin-top: -70px;
+`
+
 class AccountContainer extends Component{
     constructor(props) {
         super(props);
         this.state = {
-            childVisible: false
+            childVisible: false,
+            childVisible1: false
         }
     }
    onClick() {
        this.setState({
-           childVisible: !this.state.childVisible
+           childVisible: !this.state.childVisible, 
        })
    }
+   onClick1() {
+    this.setState({
+        childVisible1: !this.state.childVisible1
+    })
+}
     render(){
         return(
             <Account>
                     <Left>
+                    
                     <Button onClick={() => this.onClick()}>
                         <Row>
                             <Col>
@@ -100,6 +113,10 @@ class AccountContainer extends Component{
                             <Col md={6}><DetailsRight>General</DetailsRight></Col>
                             </Row>
                         </Button>
+                        
+
+                        <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
+
 
                     <Button onClick={() => this.onClick()}>
                     <Row>
@@ -115,6 +132,7 @@ class AccountContainer extends Component{
                         <Col md={6}><DetailsRight>Birthday</DetailsRight></Col>
                     </Row>
                     </Button>
+                    <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
 
                     <Button onClick={() => this.onClick()}>
                     <Row>
@@ -130,6 +148,7 @@ class AccountContainer extends Component{
                         <Col md={6}><DetailsRight>Holiday</DetailsRight></Col>
                         </Row>
                     </Button>
+                    <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
 
                     <Button onClick={() => this.onClick()}>
                     <Row>
@@ -146,6 +165,7 @@ class AccountContainer extends Component{
                             </Row>
                     </Button>
 
+                    <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
 
 
                     <Button onClick={() => this.onClick()}>test 5</Button>
@@ -161,6 +181,9 @@ class AccountContainer extends Component{
                     
                 {this.state.childVisible ? (
                     <ViewAccountDetails />
+                ):null}
+                {this.state.childVisible1 ? (
+                    <EditAccountDetails />
                 ):null}
                         
                     </Right>
