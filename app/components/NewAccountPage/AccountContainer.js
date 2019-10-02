@@ -69,8 +69,7 @@ class AccountContainer extends Component{
                 {this.state.childVisible ? (
                     <ViewAccountDetails />
                 ):null}
-                        <EditAccountDetails />
-                        <ViewAccountDetails />
+                        
                     </Right>
             </Account>
         )
@@ -78,3 +77,8 @@ class AccountContainer extends Component{
 }
 
 export default AccountContainer
+
+/**
+ * <EditAccountDetails />
+                        <ViewAccountDetails />
+ */
