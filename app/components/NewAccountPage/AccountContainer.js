@@ -42,7 +42,7 @@ class AccountContainer extends Component{
     constructor(props) {
         super(props);
         this.state = {
-            childVisible: true
+            childVisible: false
         }
     }
    onClick() {
