@@ -98,7 +98,6 @@ class AccountContainer extends Component{
         return(
             <Account>
                     <Left>
-                    
                     <Button onClick={() => this.onClick()}>
                         <Row>
                             <Col>
@@ -113,45 +112,39 @@ class AccountContainer extends Component{
                             <Col md={6}><DetailsRight>General</DetailsRight></Col>
                             </Row>
                         </Button>
-                        
-
                         <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
-
-
-                    <Button onClick={() => this.onClick()}>
-                    <Row>
-                        <Col>
-                        <Title>RBS Savings</Title></Col>
-                        </Row>
+                        <Button onClick={() => this.onClick()}>
                         <Row>
-                        <Col md={6}><DetailsLeft>Goal</DetailsLeft></Col>
-                        <Col md={6}><DetailsRight>£1,101</DetailsRight></Col>
+                            <Col>
+                            <Title>RBS Savings</Title></Col>
+                            </Row>
+                            <Row>
+                            <Col md={6}><DetailsLeft>Goal</DetailsLeft></Col>
+                            <Col md={6}><DetailsRight>£1,101</DetailsRight></Col>
+                            </Row>
+                            <Row>
+                            <Col md={6}><DetailsLeft>Category</DetailsLeft></Col>
+                            <Col md={6}><DetailsRight>Birthday</DetailsRight></Col>
                         </Row>
+                        </Button>
+                        <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
+                        <Button onClick={() => this.onClick()}>
                         <Row>
-                        <Col md={6}><DetailsLeft>Category</DetailsLeft></Col>
-                        <Col md={6}><DetailsRight>Birthday</DetailsRight></Col>
-                    </Row>
-                    </Button>
-                    <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
-
-                    <Button onClick={() => this.onClick()}>
-                    <Row>
-                        <Col>
-                        <Title>Santander Savings</Title></Col>
-                        </Row>
+                            <Col>
+                            <Title>Santander Savings</Title></Col>
+                            </Row>
+                            <Row>
+                            <Col md={6}><DetailsLeft>Goal</DetailsLeft></Col>
+                            <Col md={6}><DetailsRight>£3,763</DetailsRight></Col>
+                            </Row>
+                            <Row>
+                            <Col md={6}><DetailsLeft>Category</DetailsLeft></Col>
+                            <Col md={6}><DetailsRight>Holiday</DetailsRight></Col>
+                            </Row>
+                        </Button>
+                        <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
+                        <Button onClick={() => this.onClick()}>
                         <Row>
-                        <Col md={6}><DetailsLeft>Goal</DetailsLeft></Col>
-                        <Col md={6}><DetailsRight>£3,763</DetailsRight></Col>
-                        </Row>
-                        <Row>
-                        <Col md={6}><DetailsLeft>Category</DetailsLeft></Col>
-                        <Col md={6}><DetailsRight>Holiday</DetailsRight></Col>
-                        </Row>
-                    </Button>
-                    <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
-
-                    <Button onClick={() => this.onClick()}>
-                    <Row>
                             <Col>
                             <Title>ISA Cash</Title></Col>
                             </Row>
@@ -163,29 +156,21 @@ class AccountContainer extends Component{
                             <Col md={6}><DetailsLeft>Category</DetailsLeft></Col>
                             <Col md={6}><DetailsRight>General</DetailsRight></Col>
                             </Row>
-                    </Button>
-
-                    <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
-
-
-                    <Button onClick={() => this.onClick()}>test 5</Button>
-                        <SideAccounts onClick={() => this.onClick()}/>
-                    <Button onClick={() => this.onClick()}>test</Button>
-                       
+                        </Button>
+                        <EditIcon onClick={() => this.onClick1()}><Edit /></EditIcon>
+                        <Button onClick={() => this.onClick()}>test 5</Button>
+                            <SideAccounts onClick={() => this.onClick()}/>
+                        <Button onClick={() => this.onClick()}>test</Button>
                         <SideAccounts />
                         <SideAccounts />
                         </Left>
-                        
-                    
                     <Right>
-                    
-                {this.state.childVisible ? (
-                    <ViewAccountDetails />
-                ):null}
-                {this.state.childVisible1 ? (
-                    <EditAccountDetails />
-                ):null}
-                        
+                        {this.state.childVisible ? (
+                            <ViewAccountDetails />
+                        ):null}
+                        {this.state.childVisible1 ? (
+                            <EditAccountDetails />
+                        ):null}
                     </Right>
             </Account>
         )
@@ -194,7 +179,3 @@ class AccountContainer extends Component{
 
 export default AccountContainer
 
-/**
- * <EditAccountDetails />
-                        <ViewAccountDetails />
- */
