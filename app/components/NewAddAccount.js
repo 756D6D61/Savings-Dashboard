@@ -2,11 +2,12 @@ import React, { Component } from 'react'
 import TopMenu from './NewAccountPage/TopMenu'
 import AddContainer from './NewAddAccount/AddAccountContainer'
 import { Row, Col } from 'reactstrap'
+import styled from 'styled-components'
 
 class Accounts extends Component{
     render(){
         return(
-            <div className="home">
+            <div>
                 <Row>
                     <Col>
                         <TopMenu />
