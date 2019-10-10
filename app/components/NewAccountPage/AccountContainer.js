@@ -38,7 +38,6 @@ const Right = styled.div`
     z-index:999;
     float:right;
 `
-
 const Button = styled.button`
     width:20vw;
     height:15vh;
