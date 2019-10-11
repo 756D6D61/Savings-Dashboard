@@ -5,8 +5,10 @@ import AccountIcon from '@material-ui/icons/Dashboard';
 import { Link } from 'react-router-dom'
 import { Row, Col } from 'reactstrap'
 
-const Menu = styled.p`
+const Menu = styled.div`
     color:#ADADAD;
+    margin-left: 7%;
+    margin-top: 2%;
 `
 const AccountLink = styled.p`
     text-align: left;
@@ -34,6 +36,7 @@ class TopMenu extends Component{
             <Menu>
             <Row>
                 <Col md={10}>
+                    <Row>
                     <HomeIcon />
                     <AccountIcon /> 
                     <Link to="/Accounts">
@@ -41,8 +44,12 @@ class TopMenu extends Component{
                             <AccountLink>Accounts</AccountLink>
                         </StyledLink>
                     </Link>
+                    </Row>
+                    
                 </Col>
-                <Col md={2}><Circle /> User</Col>
+                <Row>
+                    <Col md={2}><Circle /> </Col><Col>User</Col>
+                </Row>
             </Row>
             </Menu>
         )

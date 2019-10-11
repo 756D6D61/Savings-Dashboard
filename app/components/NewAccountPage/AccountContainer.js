@@ -11,7 +11,7 @@ const Account = styled.div`
     height: 90vh;
     width: 92.90vw;
     margin-left:75px;
-    margin-top:40px
+    margin-top:10px
 `
 const Left = styled.div`
     background: #F7F7F7;
@@ -19,6 +19,8 @@ const Left = styled.div`
     height: 90vh;
     width:25vw;
     overflow-y: scroll;
+    overflow-x: hidden;
+
     &::-webkit-scrollbar {
         -webkit-appearance: none;
         width: 7px;
