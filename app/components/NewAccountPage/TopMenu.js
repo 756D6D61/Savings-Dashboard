@@ -38,6 +38,11 @@ class TopMenu extends Component{
                 <Col md={10}>
                     <Row>
                     <HomeIcon />
+                    <Link to="/NewHome">
+                        <StyledLink>
+                            <AccountLink>Home</AccountLink>
+                        </StyledLink>
+                    </Link>
                     <AccountIcon /> 
                     <Link to="/Accounts">
                         <StyledLink>
@@ -48,7 +53,10 @@ class TopMenu extends Component{
                     
                 </Col>
                 <Row>
-                    <Col md={2}><Circle /> </Col><Col>User</Col>
+                    <Col md={4}>
+                        <Circle />
+                    </Col>
+                    <Col md={2}>User</Col>
                 </Row>
             </Row>
             </Menu>
