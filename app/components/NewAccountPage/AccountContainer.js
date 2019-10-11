@@ -5,7 +5,6 @@ import EditAccountDetails from './EditAccountDetails'
 import ViewAccountDetails from './ViewAccountDetails'
 import styled from 'styled-components'
 import Edit from '../Images/edit.svg'
-import Add from '../Images/add.svg'
 
 const Account = styled.div`
     height: 90vh;
@@ -99,6 +98,7 @@ class AccountContainer extends Component{
     render(){
         return(
             <Account>
+             
                     <Left>
                     <Button onClick={() => this.onClick()}>
                         <Row>
@@ -173,7 +173,9 @@ class AccountContainer extends Component{
                         {this.state.childVisible1 ? (
                             <EditAccountDetails />
                         ):null}
+                       
                     </Right>
+                    
             </Account>
         )
     }
