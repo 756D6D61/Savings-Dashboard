@@ -17,6 +17,10 @@ const Icon = styled.p`
     text-align:left;
     font-weight:500;
     margin-top:-1vh;
+    &:hover{
+        color:#5202FA;
+        cursor: pointer;
+    }
 `
 
 class Welcome extends Component{
