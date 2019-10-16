@@ -10,7 +10,7 @@ const AddIcon = styled.div`
     z-index:999;
     margin-left:95%;
     margin-top:-7.5%;
-    position: static; 
+    position: static;  
 `
 
 class Accounts extends Component{

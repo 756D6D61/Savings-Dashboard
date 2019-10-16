@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-iPhone_X_XS_19">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_X_XS_19" data-name="iPhone X/XS – 19" clip-path="url(#clip-iPhone_X_XS_19)">
+    <rect width="375" height="812"/>
+    <rect id="Rectangle_101" data-name="Rectangle 101" width="376" height="48" transform="translate(-1 18)" fill="#a5a5a5"/>
+    <path id="ic_person_24px" d="M18.031,18.031a7.016,7.016,0,1,0-7.016-7.016A7.014,7.014,0,0,0,18.031,18.031Zm0,3.508C13.348,21.539,4,23.889,4,28.555v3.508H32.063V28.555C32.063,23.889,22.714,21.539,18.031,21.539Z" transform="translate(332 24.245)" fill="#fff"/>
+    <g id="Group_12" data-name="Group 12" transform="translate(-2 -23)">
+      <line id="Line_254" data-name="Line 254" x2="27" transform="translate(13.5 56.5)" fill="none" stroke="#fff" stroke-width="4"/>
+      <line id="Line_255" data-name="Line 255" x2="27" transform="translate(13.5 65.5)" fill="none" stroke="#fff" stroke-width="4"/>
+      <line id="Line_256" data-name="Line 256" x2="27" transform="translate(13.5 74.5)" fill="none" stroke="#fff" stroke-width="4"/>
+    </g>
+    <rect id="Rectangle_107" data-name="Rectangle 107" width="351" height="87" rx="10" transform="translate(12 99)" fill="#393939"/>
+    <text id="HSBC_Super_Saver" data-name="HSBC Super Saver" transform="translate(12 229)" fill="#58ffb8" font-size="25" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">HSBC Super Saver</tspan></text>
+    <text id="General" transform="translate(280 229)" fill="#58ffb8" font-size="25" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">General</tspan></text>
+    <line id="Line_257" data-name="Line 257" x2="351" transform="translate(12.5 243.5)" fill="none" stroke="#58ffb8" stroke-width="2"/>
+    <rect id="Rectangle_108" data-name="Rectangle 108" width="350" height="280" rx="10" transform="translate(13 263)" fill="#a5a5a5"/>
+    <g id="Column_Chart1" data-name="Column Chart1" transform="translate(23.18 275.549)">
+      <g id="Chart" transform="translate(0 0)">
+        <g id="m1">
+          <rect id="Rectangle_75" data-name="Rectangle 75" width="11.61" height="55.354" rx="5.805" transform="translate(0 204.268)" fill="#58ffb8"/>
+          <rect id="Rectangle_76" data-name="Rectangle 76" width="11.61" height="147.61" rx="5.805" transform="translate(23.22 112.012)" fill="#58ffb8"/>
+          <rect id="Rectangle_77" data-name="Rectangle 77" width="11.61" height="129.159" rx="5.805" transform="translate(58.317 130.463)" fill="#58ffb8"/>
+          <rect id="Rectangle_78" data-name="Rectangle 78" width="11.61" height="55.354" rx="5.805" transform="translate(87.475 204.268)" fill="#58ffb8"/>
+          <rect id="Rectangle_79" data-name="Rectangle 79" width="11.61" height="121.778" rx="5.805" transform="translate(116.633 137.843)" fill="#58ffb8"/>
+          <rect id="Rectangle_80" data-name="Rectangle 80" width="11.61" height="202.964" rx="5.805" transform="translate(145.791 56.658)" fill="#58ffb8"/>
+          <rect id="Rectangle_81" data-name="Rectangle 81" width="11.61" height="110.707" rx="5.805" transform="translate(174.949 148.914)" fill="#58ffb8"/>
+          <rect id="Rectangle_82" data-name="Rectangle 82" width="11.61" height="166.061" rx="5.805" transform="translate(204.107 93.56)" fill="#58ffb8"/>
+          <rect id="Rectangle_83" data-name="Rectangle 83" width="11.61" height="221.415" rx="5.805" transform="translate(233.266 38.207)" fill="#58ffb8"/>
+          <rect id="Rectangle_84" data-name="Rectangle 84" width="11.61" height="202.964" rx="5.805" transform="translate(262.424 56.658)" fill="#58ffb8"/>
+          <rect id="Rectangle_85" data-name="Rectangle 85" width="11.61" height="162.371" rx="5.805" transform="translate(297.52 97.251)" fill="#58ffb8"/>
+          <rect id="Rectangle_86" data-name="Rectangle 86" width="11.61" height="259.622" rx="5.805" transform="translate(320.741)" fill="#58ffb8"/>
+        </g>
+      </g>
+      <g id="X_Axis" data-name="X Axis" transform="translate(1.292 262.009)">
+        <text id="Jan" transform="translate(3 4)" fill="#58ffb8" font-size="4" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.446" y="0">Jan</tspan></text>
+        <text id="Feb" transform="translate(26.755 3)" fill="#58ffb8" font-size="3" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-2.667" y="0">Feb</tspan></text>
+        <text id="Mar" transform="translate(68.755 3)" fill="#58ffb8" font-size="3" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-2.667" y="0">Mar</tspan></text>
+        <text id="Apr" transform="translate(90.894 4)" fill="#58ffb8" font-size="4" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.444" y="0">Apr</tspan></text>
+        <text id="May" transform="translate(119.652 3)" fill="#58ffb8" font-size="3" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-2.918" y="0">May</tspan></text>
+        <text id="Jun" transform="translate(149.702 4)" fill="#58ffb8" font-size="4" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.556" y="0">Jun</tspan></text>
+        <text id="Jul" transform="translate(178.528 4.441)" fill="#58ffb8" font-size="4" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-2.89" y="0">Jul</tspan></text>
+        <text id="Aug" transform="translate(207.528 4.441)" fill="#58ffb8" font-size="4" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.888" y="0">Aug</tspan></text>
+        <text id="Sep" transform="translate(237.367 4)" fill="#58ffb8" font-size="4" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.668" y="0">Sep</tspan></text>
+        <text id="Oct" transform="translate(265.504 3)" fill="#58ffb8" font-size="3" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-2.5" y="0">Oct</tspan></text>
+        <text id="Nov" transform="translate(301.122 4)" fill="#58ffb8" font-size="4" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.778" y="0">Nov</tspan></text>
+        <text id="Dec" transform="translate(324.877 4)" fill="#58ffb8" font-size="4" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-3.669" y="0">Dec</tspan></text>
+      </g>
+    </g>
+    <rect id="Rectangle_109" data-name="Rectangle 109" width="352" height="242" rx="10" transform="translate(11 556)" fill="#a5a5a5"/>
+    <rect id="Rectangle_110" data-name="Rectangle 110" width="326" height="32" rx="5" transform="translate(25 567)" fill="#bebebe"/>
+    <rect id="Rectangle_111" data-name="Rectangle 111" width="326" height="32" rx="5" transform="translate(25 614)" fill="#bebebe"/>
+    <text id="January" transform="translate(60 587)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-25.425" y="0">January</tspan></text>
+    <text id="February" transform="translate(63 634)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-28.343" y="0">February</tspan></text>
+    <rect id="Rectangle_112" data-name="Rectangle 112" width="326" height="31" rx="5" transform="translate(25 662)" fill="#bebebe"/>
+    <rect id="Rectangle_113" data-name="Rectangle 113" width="326" height="31" rx="5" transform="translate(25 709)" fill="#bebebe"/>
+    <rect id="Rectangle_114" data-name="Rectangle 114" width="326" height="32" rx="5" transform="translate(25 756)" fill="#bebebe"/>
+    <text id="March" transform="translate(35 682)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">March</tspan></text>
+    <text id="April" transform="translate(35 728)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">April</tspan></text>
+    <text id="May-2" data-name="May" transform="translate(35 776)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">May</tspan></text>
+    <text id="_3_102" data-name="£3,102" transform="translate(338 587)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-45.87" y="0">£3,102</tspan></text>
+    <text id="_8_001" data-name="£8,001" transform="translate(338 634)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-45.87" y="0">£8,001</tspan></text>
+    <text id="_1_050" data-name="£1,050" transform="translate(338 681)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-45.87" y="0">£1,050</tspan></text>
+    <text id="_1_100" data-name="£1,100" transform="translate(338 728)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-45.87" y="0">£1,100</tspan></text>
+    <text id="_2_202" data-name="£2,202" transform="translate(336 776)" fill="#fff" font-size="15" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="-45.87" y="0">£2,202</tspan></text>
+    <text id="Select_an_Account_to_View" data-name="Select an Account to View" transform="translate(25 153)" fill="#58ffb8" font-size="27" font-family="HelveticaNeue-Light, Helvetica Neue" font-weight="300"><tspan x="0" y="0">Select an Account to View</tspan></text>
+    <path id="Polygon_2" data-name="Polygon 2" d="M8,0l8,15H0Z" transform="translate(356 154) rotate(180)" fill="#58ffb8"/>
+  </g>
+</svg>
