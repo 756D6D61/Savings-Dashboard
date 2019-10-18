@@ -12,7 +12,7 @@ const Label = styled.label`
     font-size: 30px;
     text-align:center;
     font-weight:500;
-    color: #5202FA;
+    color: #96CDEF;
 `
 const Input = styled.input`
     margin-left:10%;
@@ -20,17 +20,17 @@ const Input = styled.input`
     height: 7vh;
     border-radius: 10px;
     border: transparent;
-    color: #5202FA;
-    background: #EAEAEA;
+    color: #96CDEF;
+    background: #A5A5A5;
     margin-bottom: 30px;
     padding: 10px;
     font-weight: 200;
 `
 const Button = styled.button`
-    background:#EAEAEA;
+    background:#A5A5A5;
     width:100px;
     height:50px;
-    color: #5202FA;
+    color: #96CDEF;
     border-radius: 10px;
     border: transparent;
     font-weight:500;
@@ -39,11 +39,11 @@ const Button = styled.button`
 `
 const Title = styled.p`
     font-family: Helvetica Neue;
-    font-size: 70px;
+    font-size: 50px;
     text-align:center;
     font-weight:600;
     margin-top:5px;
-    color: #5202FA;
+    color: #96CDEF;
     margin-left:-7%;
 `
 

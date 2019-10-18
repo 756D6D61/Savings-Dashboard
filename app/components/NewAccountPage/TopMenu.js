@@ -11,8 +11,6 @@ import { Row, Col } from 'reactstrap'
 
 const Menu = styled.div`
     color:#FFF;
-    margin-top: 2%;
-    padding:5px;
     z-index:999;
     background: #A5A5A5;
 `

@@ -5,26 +5,22 @@ import Image from './AddImage'
 import styled from 'styled-components'
 
 const AddAccount = styled.div`
-    height: 90vh;
-    width: 92.90vw;
-    margin-left:75px;
-    margin-top:40px
-`
-const Left = styled.div`
-    background: #F7F7F7;
-    border-top-left-radius:20px;
-    height: 90vh;
-    width:50vw;
    
 `
+const Left = styled.div`
+    background: #000;
+    height: 110vh;
+    width:50vw; 
+    margin-top:-110px;
+    padding-top:150px;
+`
 const Right = styled.div`
-    background: #EAEAEA;
-    width:50vw;
-    height: 90vh;
-    margin-top: -659px;
-    margin-right: -102px;
-    z-index:999;
+    background: #393939;
+   
+    margin-top: -800px;
     float:right;
+    padding-top:150px;
+    width:50vw;
 `
 
 class AccountContainer extends Component{
