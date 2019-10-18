@@ -18,7 +18,7 @@ const Menu = styled.div`
 const Image = styled.div`
     height: 175px;
     width: 175px;
-    background: white;
+    background: #A5A5A5;
     border-radius: 10px; 
     margin: 10%;
 `
@@ -63,7 +63,6 @@ class SideMenu extends Component{
         return(
             <Menu>
                 <br />
-                
                 <Image />
                 <HR />
                 <Links>
