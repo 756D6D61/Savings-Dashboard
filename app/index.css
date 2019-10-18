@@ -13,20 +13,18 @@ html {
     background-image: url('../app/components/Images/people.svg')
 }
 input.form-control, button.btn.btn-secondary, button.dropdown-toggle.btn.btn-secondary{
-    background-color: white;
     border: none;
     width: 19vw;
     height:6vh;
-    background:#FFF;
-    color:#5202FA;
+    background:#BFBFBF;
+    color:#FFF;
     border-radius:10px;
 }
 
 div.dropdown-menu.show, button.dropdown-item {
-    background-color: white;
     height:6vh;
     border: none;
-    background:#FFF;
+    background:#BFBFBF;
     color:#5202FA;
 }
 input.form-control{
@@ -34,7 +32,6 @@ input.form-control{
     border: none;
     width: 19vw;
     height:6vh;
-    background:#FFF;
     color:#5202FA;
     border-radius:10px;
     font-weight:200;
@@ -43,6 +40,7 @@ input.form-control{
 input.form-control::placeholder {
     color: #5202FA;  
     font-weight:200;
+    
   }
 
 button.add.btn.btn-secondary{

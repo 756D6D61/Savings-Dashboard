@@ -15,8 +15,8 @@ const Content = styled.div`
 const Month = styled.div`
     height: 6vh;
     width: 22vw;
-    background:#FFF;
-    color:#5202FA;
+    background:#BFBFBF;
+    color:#FFF;
     border-radius:10px;
     margin-left:1.5vw;
     margin-bottom: 10px;
