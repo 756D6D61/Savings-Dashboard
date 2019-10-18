@@ -6,7 +6,7 @@ import { VictoryBar, VictoryChart, VictoryAxis,
 const Content = styled.div`
     height: 75.5vh;
     width: 35vw;
-    background:#F7F7F7;
+    background:#A5A5A5;
     color:#5202FA;
     border-radius:20px;
     padding: 5px;

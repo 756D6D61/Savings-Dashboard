@@ -5,7 +5,7 @@ import { Row, Col } from 'reactstrap'
 const Content = styled.div`
     height: 75.5vh;
     width: 25vw;
-    background:#F7F7F7;
+    background:#A5A5A5;
     color:#5202FA;
     border-radius:20px;
     padding: 5px;
@@ -28,6 +28,8 @@ const Title = styled.p`
     font-size: 30px;
     text-align:center;
     font-weight:500;
+    font-family: Source Code Pro;
+    color: #8579B9;
 `
 
 class MonthlySavings extends Component{
