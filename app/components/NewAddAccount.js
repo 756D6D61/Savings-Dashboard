@@ -6,7 +6,6 @@ import styled from 'styled-components'
 
 const TopBar = styled.div`
     z-index: 999;
-    
     background: #A5A5A5;
     margin-top:2%;
     width:100%;

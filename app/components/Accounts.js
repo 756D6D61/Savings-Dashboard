@@ -6,11 +6,11 @@ import styled from 'styled-components'
 import NewIcon from './Images/add.svg'
 import { Link } from 'react-router-dom'
 
-const AddIcon = styled.div`
-    z-index:999;
-    margin-left:95%;
-    margin-top:-7.5%;
-    position: static;  
+const TopBar = styled.div`
+    z-index: 999;
+    background: #A5A5A5;
+    margin-top:2%;
+    width:100%;
 `
 
 class Accounts extends Component{
@@ -18,17 +18,17 @@ class Accounts extends Component{
         return(
             <div>
                 <Row>
-                    <Col>
-                        <TopMenu />
-                    </Col>
+                    <TopBar>
+                        <Col>
+                            <TopMenu />
+                        </Col>
+                    </TopBar>
                 </Row>
                 <Row>
                     <Col>
                         <AccountContainer />
                     </Col>
-                    <AddIcon>
-                    <Link to="/AddAccounts"><NewIcon /></Link>
-                </AddIcon>
+                    
                 </Row>
             </div>
         )
@@ -36,3 +36,6 @@ class Accounts extends Component{
 }
 
 export default Accounts
+/*<AddIcon>
+                    <Link to="/AddAccounts"><NewIcon /></Link>
+                </AddIcon>*/
