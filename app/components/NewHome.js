@@ -14,12 +14,21 @@ import { Link } from 'react-router-dom'
 const Home = styled.div`
     height: 100vh;
     width: 100%;
+    background: #000;
 `
 const AddIcon = styled.div`
     z-index:999;
     margin-left:95%;
     margin-top:-4.5%;
     position: static; 
+`
+const TopBar = styled.div`
+    z-index: 999;
+    margin-left: -19%;
+    background: #A5A5A5;
+    height: 9vh;
+    margin-top:2%;
+    width:120%;
 `
 
 class NewHome extends Component{
@@ -30,11 +39,15 @@ class NewHome extends Component{
                 <Col md={2}>
                     <SideMenu />
                 </Col>
+                
                 <Col md={10}>
                     <Row>
-                        <Col md={12}>
+                        <TopBar>
+                            <Col md={12}>
                             <Welcome />
-                        </Col>
+                            </Col>
+                        </TopBar>
+                        
                     </Row>
                     <Row>
                         <Col md={3}>
@@ -60,9 +73,6 @@ class NewHome extends Component{
                         </Col>
                     </Row>
                 </Col>
-                <AddIcon>
-                    <Link to="/AddAccounts"><Add /></Link>
-                </AddIcon>
                 </Row>
                 
             </Home>

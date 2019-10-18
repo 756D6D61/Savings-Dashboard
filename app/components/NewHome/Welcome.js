@@ -4,15 +4,14 @@ import styled from 'styled-components'
 import Person from '@material-ui/icons/Person';
 
 const UserName = styled.p`
-    color:#9B9B9B;
-    font-family: Helvetica Neue;
+    color:#FFF;
+    font-family: Source Code Pro;
     font-size: 45px;
     text-align:left;
     font-weight:500;
 `
-
 const Icon = styled.p`
-    color:#9B9B9B;
+    color:#FFF;
     font-size: 45px;
     text-align:left;
     font-weight:500;
@@ -22,7 +21,9 @@ const Icon = styled.p`
         cursor: pointer;
     }
 `
-
+const WelcomeContainer = styled.div`
+    
+`
 class Welcome extends Component{
     constructor(props) {
         super(props);
@@ -40,6 +41,7 @@ class Welcome extends Component{
       }
     render(){
         return(
+            <WelcomeContainer>
             <Row>
                 <Col md={11}>
                     <UserName>Welcome, User Name</UserName>
@@ -58,6 +60,7 @@ class Welcome extends Component{
                 </ModalFooter>
                 </Modal>
             </Row>
+            </WelcomeContainer>
         )
     }
 }

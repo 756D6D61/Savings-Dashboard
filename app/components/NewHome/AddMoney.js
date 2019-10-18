@@ -5,7 +5,7 @@ import styled from 'styled-components'
 const Money = styled.div`
     height: 40vh;
     width: 20vw;
-    background:#F7F7F7;
+    background:#A5A5A5;
     color:#5202FA;
     border-radius:20px;
     padding: 5px;
@@ -15,11 +15,13 @@ const Title = styled.p`
     font-size: 30px;
     text-align:center;
     font-weight:500;
+    font-family: Source Code Pro;
+    color: #58FFB8;
 `
 const dropdown = styled.div`
     height: 10vh;
     width: 10vw;
-    background:#F7F7F7;
+    background:#A5A5A5;
     color:#5202FA;
     border-radius:20px;
 `

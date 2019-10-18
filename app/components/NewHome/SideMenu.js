@@ -7,8 +7,9 @@ import { Link } from 'react-router-dom'
 const Menu = styled.div`
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(#5400FA, #0092FF);
+    background:#393939
     color:white;
+    padding-top: 30%;
 `
 const Image = styled.div`
     height: 175px;
