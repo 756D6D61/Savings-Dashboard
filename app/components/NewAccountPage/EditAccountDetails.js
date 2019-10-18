@@ -11,7 +11,7 @@ const Label = styled.label`
     font-size: 30px;
     text-align:center;
     font-weight:500;
-    color: #5202FA;
+    color: #FFE36C;
 `
 const Input = styled.input`
     margin-left:10%;
@@ -19,23 +19,23 @@ const Input = styled.input`
     height: 7vh;
     border-radius: 10px;
     border: transparent;
-    color: #5202FA;
-    background: #D5D8D0;
+    color: #FFE36C;
+    background: #A5A5A5;
     margin-bottom: 30px;
     padding: 10px;
     font-weight: 200;
     ::placeholder,
     ::-webkit-input-placeholder {
-        color: #5202FA;
+        color: #FFE36C;
         font-size:25px;
         padding:5px;
   }
 `
 const Button = styled.button`
-    background:#D5D8D0;
+    background:#A5A5A5;
     width:100px;
     height:50px;
-    color: #5202FA;
+    color: #FFE36C;
     border-radius: 10px;
     border: transparent;
     font-weight:500;
@@ -62,7 +62,7 @@ class EditAccount extends Component{
                     <Row>
                         <Col md={2}>
                             <Label>
-                                Type
+                                Category
                             </Label>
                         </Col>
                         <Col md={10}>
