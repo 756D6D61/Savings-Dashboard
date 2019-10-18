@@ -4,20 +4,21 @@ import styled from 'styled-components'
 const Content = styled.div`
     height: 10vh;
     width: 62vw;
-    background:#F7F7F7;
+    background:#A5A5A5;
     color:#5202FA;
     border-radius:20px;
-    font-size:40px;
+    font-size:33px;
 `
 const Text = styled.div`
-    color:#5202FA;
+    color:#FFB9BB;
     margin-left:1.5vw;
-    margin-bottom: 5px;
     padding:5px;
     font-weight:200;
+    font-family: Source Code Pro;
 `
 const Bold = styled.b`
     font-weight:600;
+    font-family: Source Code Pro;
 `
 
 class OneLine extends Component{
