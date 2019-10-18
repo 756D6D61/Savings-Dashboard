@@ -4,7 +4,7 @@ import SideAccounts from './SideAccounts'
 import EditAccountDetails from './EditAccountDetails'
 import ViewAccountDetails from './ViewAccountDetails'
 import styled from 'styled-components'
-import Edit from '../Images/edit.svg'
+import Edit from '../Images/add2.svg'
 
 const Account = styled.div`
     height: 90vh;
@@ -25,6 +25,7 @@ const Left = styled.div`
     &::-webkit-scrollbar {
         -webkit-appearance: none;
         width: 7px;
+       
     }
     &::-webkit-scrollbar-thumb {
         border-radius: 4px;
@@ -74,7 +75,7 @@ const DetailsRight = styled.p`
 `
 
 const EditIcon = styled.p`
-    margin-left:310px;
+    margin-left:320px;
     margin-top: -70px;
 `
 
