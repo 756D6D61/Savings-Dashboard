@@ -1,8 +1,12 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
-import HomeIcon from '@material-ui/icons/Home';
+import HomeIcon from '@material-ui/icons/HomeOutlined';
 import AccountIcon from '@material-ui/icons/Dashboard';
 import { Link } from 'react-router-dom'
+import Add from '@material-ui/icons/QueueOutlined';
+import Edit from '@material-ui/icons/BorderColorOutlined';
+import View from '@material-ui/icons/VisibilityOutlined';
+import {Row, Col} from 'reactstrap'
 
 const Menu = styled.div`
     height: 100vh;
@@ -18,12 +22,6 @@ const Image = styled.div`
     border-radius: 10px; 
     margin: 10%;
 `
-const UserName = styled.p`
-    color:white;
-    font-family: Helvetica Neue;
-    font-size: 35px;
-    text-align:center;
-`
 const HR = styled.hr`
     background-color:white;
     margin:10px;
@@ -32,12 +30,12 @@ const Links = styled.div`
     text-align: left;
     font-size:25px;
     margin-left:2vw;
-    
+    font-family: Source Code Pro;
 `
-const Home = styled.p`
+const Home = styled.div`
     text-decoration: none;
-    border-bottom: 8px solid white;
     font-weight:200;
+    padding: 10px;
 `
 const Account = styled.p`
     margin-top: -2vh;
@@ -67,13 +65,32 @@ class SideMenu extends Component{
                 <br />
                 
                 <Image />
-                <UserName>User Name</UserName>
                 <HR />
                 <Links>
-                    <Home>
-                        <HomeIcon style={{fontSize: '130%'}}/>Home
-                    </Home>
-                    <Account>
+                <Row>
+                <Col md={2}>
+                        <Home><HomeIcon /></Home>
+                        <Home><Add /></Home>
+                        <Home><Edit /></Home>
+                        <Home><View /></Home>
+                </Col>
+                <Col md={10}>
+                        <Home>Home</Home>
+                        <Home>Add</Home>
+                        <Home>Edit</Home> 
+                        <Home>View</Home>
+                </Col>
+                </Row>
+                </Links>
+                
+            </Menu>
+        )
+    }
+}
+
+export default SideMenu
+/*
+<Account>
                         <AccountIcon style={{fontSize: '130%'}}/>
                             <Link to="/Accounts">
                             <StyledLink>
@@ -81,10 +98,35 @@ class SideMenu extends Component{
                             </StyledLink>
                             </Link>
                     </Account>
-                </Links>
-            </Menu>
-        )
-    }
-}
+ */
 
-export default SideMenu
+ /*
+ <Row>
+                    <Col md={2}>
+                        <HomeIcon />
+                        <Add />
+                        <Edit />
+                        <View />
+                    </Col>
+                    <Col md={10}>
+                        <Home>Home</Home>
+                        <Home>Add</Home>
+                        <Home>Edit</Home> 
+                        <Home>View</Home>
+                    </Col>
+                </Row> */
+/*
+<Home>
+                        <HomeIcon style={{fontSize: '130%'}}/> Home
+                    </Home>
+                    <Home>
+                        <Add /> Add
+                    </Home>
+                    <Home>
+                        <Edit /> Edit
+                    </Home>
+                    <Home>
+                        <View /> View
+                    </Home>
+
+ */
