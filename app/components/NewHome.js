@@ -30,10 +30,11 @@ class NewHome extends Component{
                 <Col md={2}>
                     <SideMenu />
                 </Col>
+                
                 <Col md={10}>
                     <Row>
                         <Col md={12}>
-                            <Welcome />
+                        <Welcome />
                         </Col>
                     </Row>
                     <Row>
@@ -60,9 +61,6 @@ class NewHome extends Component{
                         </Col>
                     </Row>
                 </Col>
-                <AddIcon>
-                    <Link to="/AddAccounts"><Add /></Link>
-                </AddIcon>
                 </Row>
                 
             </Home>
