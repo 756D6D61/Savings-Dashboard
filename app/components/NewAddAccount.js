@@ -8,7 +8,7 @@ class Accounts extends Component{
         return(
             <div>
                 <Row>
-                    <Col>
+                    <Col md={12}>
                         <TopMenu />
                     </Col>
                 </Row>
