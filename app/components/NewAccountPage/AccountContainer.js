@@ -12,11 +12,13 @@ const Account = styled.div`
     margin-left:75px;
     margin-top:10px
 `
+
+
 const Left = styled.div`
-    background: #F7F7F7;
-    border-top-left-radius:20px;
-    height: 90vh;
-    width:25vw;
+    background: #393939;
+    height: 110vh;
+    width:30vw; 
+    padding-top:10px;
     overflow-y: scroll;
     overflow-x: hidden;
 
@@ -26,18 +28,17 @@ const Left = styled.div`
     }
     &::-webkit-scrollbar-thumb {
         border-radius: 4px;
-        background-color: rgba(0,0,0,.5);
+        background-color: rgba(255,255,255,.5);
         -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
     }
 `
 const Right = styled.div`
-    background: #EAEAEA;
-    width:75vw;
-    height: 90vh;
-    margin-top: -660px;
-    margin-right: -102px;
-    z-index:999;
+    background: #000;
+    margin-top: -810px;
+    margin-right: 0;
     float:right;
+    height: 110vh;
+    width:70vw; 
 `
 const Button = styled.button`
     width:20vw;
@@ -97,7 +98,7 @@ class AccountContainer extends Component{
 }
     render(){
         return(
-            <Account>
+            <div>
              
                     <Left>
                     <Button onClick={() => this.onClick()}>
@@ -176,7 +177,7 @@ class AccountContainer extends Component{
                        
                     </Right>
                     
-            </Account>
+            </div>
         )
     }
 }

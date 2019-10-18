@@ -12,11 +12,27 @@ const TopBar = styled.div`
     margin-top:2%;
     width:100%;
 `
+const Left = styled.div`
+    background: #393939;
+    height: 6vh;
+    width:30vw; 
+    margin-bottom:-40px;
+`
+const Right = styled.div`
+    background: #000;
+    height: 6vh;
+    width:70vw; 
+    margin-bottom:-40px;
+    margin-left:30vw;
+    margin-top:-50px;
+`
 
 class Accounts extends Component{
     render(){
         return(
             <div>
+                <Left></Left>
+                <Right></Right>
                 <Row>
                     <TopBar>
                         <Col>
