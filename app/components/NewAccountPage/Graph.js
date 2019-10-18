@@ -4,10 +4,10 @@ import { VictoryBar, VictoryChart, VictoryAxis,
     VictoryTheme, VictoryStack } from 'victory'
 
 const Content = styled.div`
-    height: 64.5vh;
+    height: 74.5vh;
     width: 35vw;
-    background:#d5d8d0;
-    color:#5202FA;
+    background:#A5A5A5;
+    color:#58FFB8;
     border-radius:20px;
     padding: 5px;
     margin-top: 15px;
@@ -65,7 +65,7 @@ class Graph extends Component{
                     />
                    
                     <VictoryStack
-                    colorScale={["#5202FA", "#8A55F9", "#B392F9", "#D6C6F8"]}
+                    colorScale={["58FFB8"]}
                     >
                     <VictoryBar
                         data={data2012}

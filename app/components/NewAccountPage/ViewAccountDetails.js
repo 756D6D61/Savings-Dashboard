@@ -11,14 +11,16 @@ const AccInfo = styled.div`
     text-align: left;
     font-family: Helvetica Neue;
     font-size: 30px;
-    color:#5202FA;
+    color: #58FFB8;
+    margin-top:20px;
 `
 
 const HR = styled.hr`
-    background-color:#5202FA;
+    background-color:#58FFB8;
     margin:15px;
-    width:90%;
+    width:95%;
 `
+
 
 class ViewAccount extends Component{
     render(){
@@ -35,7 +37,6 @@ class ViewAccount extends Component{
                     </AccInfo>
                     <HR/>
                 </Col>
-                
                 <Col md={6}><Graph /></Col>
                 <Col md={6}><Monthly/></Col>
             </Row>

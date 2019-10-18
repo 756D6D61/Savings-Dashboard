@@ -43,8 +43,8 @@ const Right = styled.div`
 const Button = styled.button`
     width:20vw;
     height:15vh;
-    color: #5202FA
-    background: white;
+    color: #58FFB8
+    background: #A6A6A6;
     border: transparent;
     padding:5px;
     border-radius:10px;

@@ -3,20 +3,20 @@ import styled from 'styled-components'
 import { Row, Col } from 'reactstrap'
 
 const Content = styled.div`
-height: 64.5vh;
-width: 31.5vw;
-background:#d5d8d0;
-color:#5202FA;
-border-radius:20px;
-padding: 5px;
-margin-top: 15px;
-margin-left:-15px;
+    height: 74.5vh;
+    width: 31.5vw;
+    background:#A5A5A5;
+    color:#FFF;
+    border-radius:20px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-left: 10px;
 `
 const Month = styled.div`
     height: 6vh;
     width: 28vw;
-    background:#FFF;
-    color:#5202FA;
+    background:#BEBEBE;
+    color:#FFF;
     border-radius:10px;
     margin: 20px;
     padding:10px;
@@ -67,6 +67,12 @@ class Monthly extends Component{
                     <Row>
                         <Col md={8} className="text-md-left">July</Col>
                         <Col md={4} className="text-md-right">£1,010</Col>
+                    </Row>
+                </Month>
+                <Month>
+                    <Row>
+                        <Col md={8} className="text-md-left">August</Col>
+                        <Col md={4} className="text-md-right">£3,032</Col>
                     </Row>
                 </Month>
             </Content>
