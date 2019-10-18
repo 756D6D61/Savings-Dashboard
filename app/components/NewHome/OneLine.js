@@ -8,6 +8,7 @@ const Content = styled.div`
     color:#5202FA;
     border-radius:20px;
     font-size:33px;
+    margin-top: 10px;
 `
 const Text = styled.div`
     color:#FFB9BB;

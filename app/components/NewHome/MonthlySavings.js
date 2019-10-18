@@ -9,7 +9,7 @@ const Content = styled.div`
     color:#5202FA;
     border-radius:20px;
     padding: 5px;
-    margin-top: 15px;
+    margin-top: 5px;
     margin-left:-100px;
 `
 const Month = styled.div`

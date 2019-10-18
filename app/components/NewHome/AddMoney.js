@@ -9,6 +9,7 @@ const Money = styled.div`
     color:#5202FA;
     border-radius:20px;
     padding: 5px;
+    margin-top: 10px;
 `
 const Title = styled.p`
     font-family: Helvetica Neue;

@@ -39,7 +39,6 @@ class NewHome extends Component{
                 <Col md={2}>
                     <SideMenu />
                 </Col>
-                
                 <Col md={10}>
                     <Row>
                         <TopBar>
