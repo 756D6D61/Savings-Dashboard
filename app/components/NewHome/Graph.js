@@ -65,7 +65,7 @@ class Graph extends Component{
                     />
                    
                     <VictoryStack
-                    colorScale={["#5202FA", "#8A55F9", "#B392F9", "#D6C6F8"]}
+                    colorScale={["#B4D0F7"]}
                     >
                     <VictoryBar
                         data={data2012}
