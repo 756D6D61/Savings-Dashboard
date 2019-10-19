@@ -7,7 +7,7 @@ const Content = styled.div`
     background:#A5A5A5;
     color:#5202FA;
     border-radius:20px;
-    font-size:33px;
+    font-size:42px;
     margin-top: 10px;
 `
 const Text = styled.div`
