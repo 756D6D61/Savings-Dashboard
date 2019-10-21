@@ -65,6 +65,9 @@ const DetailsLeft = styled.p`
     text-align:left;
     font-weight:200;
     margin-top:-15px;
+    @media(max-width:800px) {
+        flex-direction:column;
+    }
 `
 const DetailsRight = styled.p`
     font-family: Helvetica Neue;
